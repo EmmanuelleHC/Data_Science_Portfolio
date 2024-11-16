@@ -3,8 +3,8 @@
 
 # **Portfolio of Data Science Projects**
 
-Welcome to my portfolio repository! This repository showcases my work on two key data science projects. 
-Each project demonstrates my skills in data analysis, machine learning, and visualization.
+Welcome to my portfolio repository! This repository showcases my work on data science projects. 
+Each project demonstrates my skills in data analysis, machine learning, and visualisation.
 
 ---
 
@@ -35,4 +35,24 @@ Data wrangling is divided into two parts:
 - **Key Steps**:
   - Handled missing values, outliers, and inconsistencies in the dataset to improve data quality.
   - Applied transformations to normalize and scale numerical features for optimal model performance.
-  
+Here’s a polished version of your section:
+
+---
+
+### **3. Data Visualization (Tableau, R Shiny, D3.js)**
+
+This section showcases visualisations created using **Tableau**, **R Shiny**, and **D3.js** to analyze and present insights from Victoria road accident data.
+
+#### **Folder: Tableau Report**
+- **Objective**: Perform data analysis and identify irregularities in Victoria road accident data.
+- **Key Features**:
+  - Created interactive dashboards to uncover trends and patterns in the data.
+  - Highlighted data irregularities and insights for improved decision-making.
+
+#### **Folder: R Shiny**
+- **Objective**: Develop an interactive data visualization tool using **R Shiny**.
+- **Key Features**:
+  - Built a dynamic web application to visualise and explore Victoria road accident data.
+
+#### **Folder: D3.js**
+- **Objective**: Implement custom visualisations using **D3.js** to represent road accident trends in Victoria.
