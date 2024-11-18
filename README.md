@@ -10,10 +10,17 @@ Each project demonstrates my skills in data analysis, machine learning, and visu
 
 ## **Projects Overview**
 
-### **1. Hybrid Recommender System (Python)**
-- Developed a recommender system combining content-based and collaborative filtering techniques.
-- Addressed challenges like cold start, data sparsity, and large dataset management.
-- Achieved **94% grade** in the assignment and ranked **18th out of 95 students** on the Kaggle leaderboard.
+### **1. Machine Learning
+
+**Hybrid Recommender System (Python)**  
+- Designed a recommender system that combines content-based and collaborative filtering techniques.  
+- Tackled challenges such as the cold start problem, data sparsity, and managing large datasets.  
+- Achieved a **94% grade** on the assignment and ranked **18th out of 95 students** on the Kaggle leaderboard.  
+
+**Feature Selection and Implementation of Regression and Classification**  
+- Conducted feature selection using statistical tests (e.g., Kruskal-Wallis) .  
+- Implemented regression and classification models (Random Forest) .  
+
 
 ### **2. ESG Survey Data Analysis**
 - Conducted exploratory data analysis on survey data about ESG (Environmental, Social, Governance) implementation in Malaysia.
