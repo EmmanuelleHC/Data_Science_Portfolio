@@ -46,7 +46,7 @@ Here’s a polished version of your section:
 
 ---
 
-### **3. Data Visualization (Tableau, R Shiny, D3.js)**
+### **4. Data Visualization (Tableau, R Shiny, D3.js)**
 
 This section showcases visualisations created using **Tableau**, **R Shiny**, and **D3.js** to analyze and present insights from Victoria road accident data.
 
