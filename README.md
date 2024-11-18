@@ -10,7 +10,7 @@ Each project demonstrates my skills in data analysis, machine learning, and visu
 
 ## **Projects Overview**
 
-### **1. Machine Learning
+### **1. Machine Learning**
 
 **Hybrid Recommender System (Python)**  
 - Designed a recommender system that combines content-based and collaborative filtering techniques.  
