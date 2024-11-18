@@ -1,0 +1,595 @@
+gender,income,whatIsYourHeightExpressItAsANumberInMetresM,doYouFeelASenseOfPurposeAndMeaningInYourLife104,howDoYouReconcileSpiritualBeliefsWithScientificOrRationalThinki,howOftenDoYouFeelSociallyConnectedWithYourPeersAndFriends,doYouHaveASupportSystemOfFriendsAndFamilyToTurnToWhenNeeded,howOftenDoYouParticipateInSocialActivitiesIncludingClubsSportsV,doYouFeelComfortableEngagingInConversationsWithPeopleFromDiffer,doYouFeelASenseOfPurposeAndMeaningInYourLife105,alwaysAnxious,alwaysStressed,alwaysAccountableAndResponsibleForYourActions,alwaysCalm,myBodyIsHypermobileAndLovesToMove,alwaysHaveFun,alwaysSerious,alwaysDepressed,alwaysLoveAndCareForYourself,extremelyGoodAbilityToSense,alwaysHaveDigestiveProblems,iAmIntenselyInterestedInOtherPeople,iRarelyWakeUpFeelingRested,iFindMostThingsAmusing,iAmAlwaysCommittedAndInvolved,iDoNotThinkThatTheWorldIsAGoodPlace,iAmWellSatisfiedAboutEverythingInMyLife,iFindBeautyInSomeThings,iAlwaysHaveACheerfulEffectOnOthers,iFeelThatIAmNotEspeciallyInControlOfMyLife,iUsuallyHaveAGoodInfluenceOnEvents,iDontHaveFunWithOtherPeople,alwaysEngageInPreparingAndUsingYourSkillsAndTalentsInOrderToGai,alwaysMakingProgress,extremelyGoodCommunicator,iDontFeelParticularlyPleasedWithTheWayIAm,iFeelThatLifeIsVeryRewarding,iHaveVeryWarmFeelingsTowardsAlmostEveryone,iAmNotParticularlyOptimisticAboutTheFuture,lifeIsGood,iLaughALot,iDontThinkILookAttractive,happiness
+Male,120k - 150k,175 - 180,Yes,They are separate,Never,"Yes, I have both",At least once a month,Never,Yes,0,2,1,0,-2,-2,0,0,0,0,-2,1,2,2,1,2,-1,0,-2,0,-2,2,0,1,0,2,-1,0,1,-2,-1,2,-9.46594
+Male,15k - 20k,155 - 160,Yes,They conflict,Sometimes,No,At least once a month,Never,Yes,-1,-1,1,2,0,0,0,-1,1,2,-2,0,-1,1,2,1,2,2,1,-2,0,-1,2,2,1,-1,2,2,-1,1,1,-2,4.82757
+Female,10k - 15k,165 - 170,Yes,They are separate,Rarely,"Yes, I have family",At least once a month,Never,No,0,-2,1,1,2,1,0,-2,-2,1,1,0,0,1,0,-2,-2,1,2,0,0,-2,1,0,0,1,0,0,0,-2,1,1,5.82008
+Male,0 - 10k,170 - 175,Yes,They complement each other,Rarely,"Yes, I have both",At least once a month,Rarely,Yes,2,2,1,-2,-2,0,0,-2,1,2,0,-2,1,1,1,0,-1,1,1,0,-2,-2,0,1,-2,-2,1,2,-2,2,0,0,-24.4443
+Female,150k - 200k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have family",More than three times a week,Rarely,Yes,2,1,0,-1,-2,1,1,1,0,-2,0,-2,1,1,0,1,0,1,-2,0,0,0,0,0,-2,0,1,0,-2,0,1,1,-5.59977
+Male,150k - 200k,175 - 180,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Rarely,Yes,-2,-2,2,0,2,1,-2,-2,2,1,-1,2,0,1,1,-2,1,2,0,1,1,-2,2,1,1,-2,0,0,-2,1,1,1,-2.21167
+Male,15k - 20k,185 - 190,Yes,They conflict,Sometimes,No,At least once a week,Always,No,-2,-2,2,-2,1,-1,-2,-2,-2,0,-2,-1,2,-2,0,0,0,1,-2,0,1,-2,-2,0,0,0,-2,0,-2,-2,-2,-2,10.8721
+Male,200k above,170 - 175,Yes,They are separate,Sometimes,"Yes, I have both",More than three times a week,Always,Yes,-1,-2,1,-2,-1,0,-2,-1,0,0,-1,-2,-2,2,1,0,-2,2,0,1,-2,0,1,0,-2,1,0,-2,2,1,1,-1,13.9887
+Male,0 - 10k,170 - 175,No,They complement each other,Sometimes,"Yes, I have both",At least once a week,Rarely,No,0,0,-2,-1,-2,-1,-2,0,-2,0,-2,0,0,0,-1,0,-1,1,0,0,-2,-1,-2,-2,-2,-1,0,0,-2,-2,1,-2,-33.1176
+Male,120k - 150k,185 - 190,Yes,They are separate,Rarely,"Yes, I have both",More than three times a week,Always,Yes,1,0,0,-1,1,1,-2,-1,0,0,0,-2,1,1,0,-1,0,0,-2,-2,1,-2,1,1,-2,-1,1,0,-1,2,2,-2,4.53843
+Male,80k - 120k,175 - 180,Yes,They conflict,Always,"Yes, I have family",More than three times a week,Always,Yes,-2,-2,2,1,1,2,-2,-2,1,0,-2,0,-1,1,0,2,0,2,0,0,0,-1,0,1,0,0,0,1,-2,1,0,-1,36.8485
+Other,120k - 150k,175 - 180,Yes,They complement each other,Sometimes,No,At least once a week,Always,Yes,-2,0,1,2,1,2,0,-1,2,0,-1,-2,-1,1,1,-1,0,1,0,-2,2,-1,2,1,0,-1,2,1,-1,2,0,-1,4.97011
+Male,0 - 10k,165 - 170,Yes,They are separate,Never,"Yes, I have family",At least once a month,Rarely,Yes,0,0,1,1,0,-2,2,-2,0,-2,-2,0,-2,-2,2,-1,0,1,1,-2,0,0,1,1,0,-2,1,1,-1,1,-2,1,-7.03107
+Male,20k - 50k,165 - 170,Yes,They are separate,Sometimes,"Yes, I have both",At least once a week,Always,Yes,-1,-2,1,-1,0,-2,-1,-2,1,1,1,-2,0,0,0,-2,-1,0,2,0,0,0,0,0,-2,0,-1,0,-2,0,0,-2,15.3078
+Male,10k - 15k,180 - 185,Yes,They are separate,Sometimes,"Yes, I have both",At least once a week,Always,Yes,0,0,1,0,1,1,0,0,0,2,1,0,0,1,0,-1,0,1,2,1,1,-1,1,0,1,0,1,1,-1,1,1,-1,-3.07681
+Female,120k - 150k,170 - 175,Yes,They are separate,Never,"Yes, I have both",At least once a week,Always,Yes,-2,1,2,-2,1,1,-2,-2,1,2,0,-2,2,1,1,-1,0,-1,0,-1,0,-1,2,0,0,0,1,0,0,0,1,-2,-1.50596
+Male,150k - 200k,175 - 180,Yes,They are separate,Sometimes,"Yes, I have both",More than three times a week,Never,Yes,2,2,1,-1,-2,-2,2,1,-1,0,2,0,1,-2,-2,1,-1,0,-2,1,-2,0,-2,-1,-1,2,-2,0,1,-1,-2,2,-10.2419
+Male,80k - 120k,160 - 165,Yes,They complement each other,Always,"Yes, I have family",More than three times a week,Never,Yes,0,1,2,1,1,-1,2,1,-2,1,0,0,-2,-1,2,1,0,1,0,0,-1,-2,0,1,0,-2,1,2,-1,0,0,0,11.2239
+Female,200k above,165 - 170,Yes,They are separate,Sometimes,"Yes, I have family",At least once a month,Sometimes,Yes,-2,-1,-2,-2,0,-2,-2,-1,0,-2,1,-2,0,1,-2,1,1,1,-2,-1,0,-2,-2,-2,0,-2,-2,-1,0,0,1,0,13.3434
+Male,15k - 20k,165 - 170,Yes,They complement each other,Sometimes,No,More than three times a week,Sometimes,Yes,-2,-1,1,-2,0,-1,-2,-2,0,0,0,-2,2,0,0,-2,0,1,0,1,0,-2,-2,-2,0,2,-2,-2,0,-2,-2,-2,2.59314
+Female,0 - 10k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have both",More than three times a week,Sometimes,Yes,-2,1,0,-1,0,0,-1,0,-2,-2,0,0,1,-2,1,0,-1,1,-2,0,-2,1,-2,0,1,2,0,-2,0,0,0,-2,-33.5488
+Female,15k - 20k,170 - 175,Yes,They conflict,Never,"Yes, I have family",Rarely,Sometimes,Yes,0,-1,1,-2,0,1,0,-2,1,-2,-2,0,1,1,2,0,-2,1,0,-2,1,-2,-2,-2,1,-2,1,0,0,1,0,-2,4.62961
+Male,150k - 200k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have both",No,Never,Yes,-1,-1,-2,1,-2,1,-1,-1,1,2,-2,0,-2,1,0,-2,1,1,2,-2,0,-1,2,1,2,-2,2,2,-1,1,1,-2,6.20934
+Female,120k - 150k,155 - 160,Yes,They are separate,Always,"Yes, I have both",At least once a month,Never,No,-1,-2,1,-2,-2,0,0,-1,-2,1,0,-1,0,0,-1,-1,-2,2,0,-2,0,-2,0,0,-1,2,0,-1,2,0,1,-2,-2.19436
+Male,50k - 80k,170 - 175,Yes,They are separate,Rarely,"Yes, I have family",Rarely,Always,Yes,-1,-1,2,2,1,0,-2,-1,1,2,2,2,0,1,1,-2,1,2,1,-1,1,-2,1,2,1,-1,2,2,-2,1,1,0,17.6299
+Female,15k - 20k,140 - 150,Yes,They complement each other,Never,"Yes, I have family",At least once a month,Sometimes,Yes,-1,-2,1,-1,0,-2,0,-2,1,0,-2,1,-1,0,0,0,0,1,1,-2,0,-1,1,0,1,-1,0,0,-1,0,1,-1,2.58327
+Male,0 - 10k,180 - 185,Yes,They complement each other,Always,No,At least once a week,Never,Yes,-2,0,0,-1,0,1,-1,-1,1,0,-1,0,1,0,0,-1,-2,1,0,-2,0,-1,2,1,-2,0,1,1,-1,0,-2,-2,-13.2451
+Male,120k - 150k,170 - 175,Yes,They complement each other,Never,"Yes, I have family",More than three times a week,Never,Yes,-2,0,1,1,1,0,0,-2,1,1,1,0,0,0,2,-1,0,1,0,0,2,-1,1,2,1,-1,2,1,-1,2,0,-1,0.831834
+Male,0 - 10k,165 - 170,Yes,They complement each other,Never,No,No,Never,No,0,1,1,-1,-1,-1,1,0,-2,-2,-1,-2,2,-2,0,1,-1,0,0,2,-1,-2,0,1,2,0,-1,-2,1,-1,1,0,-22.853
+Male,0 - 10k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Never,Yes,-1,-1,1,0,0,0,-1,-1,2,2,-1,1,-1,2,1,-2,2,2,0,-1,0,-1,1,0,1,-2,2,1,-2,2,1,-1,-7.13788
+Female,0 - 10k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Never,Yes,-2,1,1,1,0,0,1,0,0,1,0,2,0,0,2,1,-2,1,2,0,2,-1,2,2,1,1,0,1,-2,-2,0,-2,-9.47157
+Male,10k - 15k,170 - 175,Yes,They are separate,Rarely,"Yes, I have family",At least once a month,Rarely,Yes,-1,-1,1,-2,0,1,-2,-1,1,1,-1,-1,-1,1,1,-1,1,2,1,-1,1,-1,2,1,1,-1,2,0,-1,2,1,-2,5.17219
+Male,0 - 10k,175 - 180,Yes,They complement each other,Never,"Yes, I have family",At least once a month,Never,No,1,2,0,0,0,1,1,-2,0,0,-2,-2,1,1,-2,0,-2,1,0,-2,-2,-1,0,0,0,1,-1,0,-2,-2,-2,0,-19.1719
+Female,50k - 80k,140 - 150,Yes,They complement each other,Rarely,No,At least once a month,Sometimes,Yes,-2,0,1,1,0,1,1,-2,2,1,0,-1,-1,1,0,-1,0,1,-1,-1,1,-1,2,2,0,0,1,2,0,1,0,1,11.5231
+Male,10k - 15k,160 - 165,Yes,They are separate,Sometimes,"Yes, I have both",At least once a month,Never,Yes,-1,0,1,0,0,-2,0,-1,0,1,-2,1,-1,0,1,-1,0,2,0,-2,0,-1,2,0,-2,-2,0,1,-1,1,0,0,-1.68356
+Male,20k - 50k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a week,Rarely,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,4.11066
+Male,120k - 150k,170 - 175,Yes,They complement each other,Never,"Yes, I have both",More than three times a week,Never,Yes,-2,-1,2,1,-2,2,-1,-2,1,2,-1,-2,-1,2,0,-1,1,1,1,-1,1,-1,1,1,1,-2,2,2,-1,1,2,-1,11.211
+Female,10k - 15k,175 - 180,Yes,They are separate,Always,"Yes, I have family",More than three times a week,Sometimes,No,0,1,1,1,-2,2,1,0,1,1,0,-1,1,0,-1,-2,1,2,0,-2,-2,1,0,-2,0,0,0,0,1,1,0,-1,-1.98957
+Female,0 - 10k,165 - 170,Yes,They complement each other,Always,"Yes, I have both",At least once a week,Always,Yes,-2,-2,1,1,0,0,-1,-2,1,2,-1,1,0,1,1,0,1,1,1,-1,1,-1,1,1,1,-1,1,1,-1,2,1,-1,-3.988
+Male,80k - 120k,175 - 180,Yes,They conflict,Sometimes,"Yes, I have friends",Rarely,Never,Yes,1,1,1,-1,0,-1,1,0,-1,1,0,0,0,-1,1,1,-2,1,-2,1,-1,0,-1,0,0,1,0,0,0,-1,-2,1,14.143
+Male,80k - 120k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have family",More than three times a week,Rarely,Yes,1,0,1,1,-2,-2,2,0,0,1,-2,1,-1,2,1,-2,0,1,2,0,0,-2,2,0,2,-2,0,0,1,1,1,-1,25.3888
+Female,0 - 10k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Always,Yes,0,-1,2,0,0,-1,-2,-1,0,1,-1,0,-1,0,2,-2,0,1,0,0,1,-1,2,2,1,0,0,1,-1,0,0,-2,-4.88771
+Male,150k - 200k,170 - 175,Yes,They complement each other,Rarely,"Yes, I have both",No,Always,Yes,1,-2,1,-2,-2,0,0,-2,-2,0,-2,1,-2,-2,2,1,-2,1,0,1,-1,-2,-2,0,1,0,-2,0,1,0,0,2,-0.652865
+Male,200k above,180 - 185,Yes,They are separate,Rarely,"Yes, I have family",Rarely,Always,Yes,-1,-1,2,2,-2,-2,-1,-1,1,0,-1,-2,0,-2,0,-2,1,1,0,0,-2,1,1,2,-2,-1,1,0,-2,1,-2,0,11.7857
+Male,0 - 10k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have family",Rarely,Sometimes,Yes,1,1,0,-1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,-1,0,0,0,1,0,0,0,0,0,0,-10.801
+Male,50k - 80k,150 - 155,Yes,They conflict,Always,"Yes, I have both",More than three times a week,Rarely,Yes,-1,-1,0,2,-1,2,-1,-1,0,0,-2,-2,0,0,0,-1,1,1,-2,-1,-1,-2,1,1,0,-1,2,0,1,2,0,0,38.3547
+Female,0 - 10k,150 - 155,Yes,They are separate,Sometimes,No,At least once a month,Sometimes,Yes,-2,-1,1,-1,0,0,1,-1,0,-2,-2,1,0,-2,0,-1,0,0,0,0,0,-1,1,-2,-2,-2,1,2,-1,2,1,1,-13.5377
+Female,150k - 200k,150 - 155,Yes,They complement each other,Rarely,"Yes, I have family",At least once a month,Rarely,Yes,0,-2,-2,-2,1,0,0,-2,0,-2,0,0,-1,0,0,-2,1,2,1,-1,1,0,2,0,1,-2,2,-1,-2,1,2,-2,-6.09726
+Male,15k - 20k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a week,Always,No,0,-1,-2,1,-1,-1,0,-1,1,-1,-2,0,0,-1,0,-2,0,0,-1,-1,-1,-1,-2,0,1,-1,1,-1,1,-1,1,-1,-2.77787
+Male,15k - 20k,180 - 185,Yes,They are separate,Rarely,"Yes, I have both",At least once a month,Always,Yes,-1,0,0,0,1,0,0,-1,1,0,-1,-1,0,0,2,-1,0,1,1,0,1,-2,2,0,0,1,1,0,1,1,0,0,4.33998
+Male,15k - 20k,155 - 160,Yes,They are separate,Never,"Yes, I have friends",At least once a week,Rarely,Yes,-2,-2,0,1,1,-2,0,-2,2,0,-1,1,1,0,-1,2,0,0,-2,0,-2,2,0,1,1,2,-1,-2,2,0,-2,2,-4.48751
+Male,200k above,185 - 190,Yes,They complement each other,Rarely,"Yes, I have both",No,Sometimes,No,0,-2,2,0,-1,0,-2,-2,0,1,0,0,-2,0,0,1,0,1,1,0,1,-2,1,1,0,-2,0,0,0,2,1,0,25.6521
+Female,0 - 10k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Rarely,Yes,-2,-1,1,0,0,1,0,-1,0,0,1,0,0,1,1,-1,0,2,1,-2,1,0,1,0,2,-2,1,1,-2,2,0,0,-0.25718
+Male,0 - 10k,175 - 180,Yes,They complement each other,Rarely,"Yes, I have both",At least once a month,Sometimes,Yes,0,1,1,1,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,-9.7277
+Female,0 - 10k,150 - 155,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Always,No,-1,-1,1,0,0,1,1,-1,1,1,-2,-1,1,1,-1,-1,1,1,1,1,1,-1,1,0,1,1,-1,1,1,1,1,0,-4.56061
+Male,50k - 80k,170 - 175,Yes,They conflict,Rarely,"Yes, I have both",At least once a month,Rarely,Yes,1,1,1,1,1,-2,0,1,0,0,0,1,2,2,-2,2,-2,2,0,1,-2,0,0,0,1,2,-2,1,0,0,-2,0,9.50304
+Female,0 - 10k,165 - 170,Yes,They conflict,Sometimes,"Yes, I have both",Rarely,Never,Yes,0,0,2,-2,0,0,-1,1,0,1,1,0,1,1,1,0,0,1,-1,1,-2,-2,0,0,-2,2,0,2,2,-2,1,1,-10.2819
+Female,15k - 20k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have family",More than three times a week,Never,Yes,0,0,0,-2,0,-2,0,-2,0,0,-1,1,-1,0,-2,-2,-2,-1,0,-2,0,-1,0,-2,-2,0,0,1,0,0,0,0,17.3865
+Female,10k - 15k,155 - 160,Yes,They are separate,Rarely,"Yes, I have both",More than three times a week,Sometimes,No,0,1,0,1,-2,-1,1,0,-2,-2,-2,0,2,0,1,-2,0,0,0,1,1,1,0,0,0,1,-2,0,2,0,1,0,-16.122
+Female,15k - 20k,150 - 155,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a week,Sometimes,Yes,-1,-2,2,1,-2,0,0,-1,1,0,-1,0,-2,-2,1,0,0,1,0,0,0,0,2,0,0,1,0,2,2,1,0,2,2.48865
+Male,80k - 120k,180 - 185,Yes,They are separate,Sometimes,"Yes, I have family",At least once a month,Rarely,Yes,0,0,1,-1,1,-1,1,-1,-1,-1,-2,1,-1,1,-1,1,-1,0,0,0,0,0,1,-1,0,1,-1,-1,0,0,0,0,35.5651
+Female,50k - 80k,160 - 165,Yes,They complement each other,Always,"Yes, I have both",At least once a week,Sometimes,No,-1,-1,1,-1,1,0,0,0,1,1,0,1,1,0,-1,-1,0,1,0,1,0,-1,-1,0,0,0,0,-1,0,0,0,1,15.5228
+Male,200k above,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a month,Always,Yes,2,2,1,-2,0,-1,-2,0,-1,1,0,1,-2,-2,2,2,-2,0,-1,0,-2,-1,-2,0,1,2,1,-1,-2,-2,0,1,2.57668
+Female,0 - 10k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have family",At least once a week,Always,Yes,-1,-1,1,0,0,1,-1,-1,1,-2,0,-1,0,0,0,-1,1,1,-2,-1,-2,0,1,0,-2,-2,0,-2,-2,1,-2,-1,-6.86242
+Male,15k - 20k,165 - 170,Yes,They complement each other,Never,No,At least once a week,Sometimes,Yes,0,0,1,1,1,0,0,0,2,1,-2,0,-2,0,0,-2,1,2,1,-1,1,-2,1,0,1,-1,1,1,-2,2,1,0,5.57524
+Female,10k - 15k,170 - 175,Yes,They are separate,Always,"Yes, I have family",At least once a week,Rarely,Yes,-2,0,1,2,-2,2,-2,-2,1,1,0,-2,1,1,0,-2,2,2,2,-2,-2,0,-2,2,1,1,0,0,0,1,0,0,-6.33633
+Female,150k - 200k,140 - 150,Yes,They complement each other,Never,"Yes, I have family",No,Rarely,Yes,-1,-1,0,-2,-2,1,-2,-1,1,0,-2,1,0,0,0,-1,-2,2,0,-2,0,-1,1,1,-2,-1,2,0,-1,2,0,0,2.96799
+Male,20k - 50k,185 - 190,Yes,They are separate,Sometimes,"Yes, I have both",More than three times a week,Always,Yes,-2,-2,2,1,2,2,1,-2,2,0,0,1,-2,2,1,0,1,1,2,-2,1,-2,2,2,0,0,2,1,-1,2,0,0,22.728
+Female,15k - 20k,165 - 170,Yes,They are separate,Rarely,"Yes, I have both",At least once a month,Rarely,Yes,0,0,0,0,0,0,0,0,2,1,0,-1,1,0,0,-2,0,0,-2,-2,1,-2,1,1,0,-2,1,-1,-2,1,0,0,-1.81505
+Female,0 - 10k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have family",No,Never,Yes,0,2,0,-2,0,-1,1,1,-2,1,-2,1,1,-1,0,0,-2,0,0,2,-2,0,0,0,1,0,-1,1,0,-1,0,-2,-22.427
+Female,0 - 10k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Rarely,Yes,0,1,0,0,0,0,-2,-2,2,1,-2,0,2,0,1,0,0,1,0,0,-2,-2,1,0,0,0,0,-2,-2,1,-2,0,-30.3823
+Male,10k - 15k,170 - 175,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Always,Yes,-2,1,2,0,-2,0,-2,-2,1,1,-1,0,-2,1,1,-1,0,2,0,0,0,-1,1,2,1,-1,2,1,-2,2,1,-1,-4.42305
+Female,200k above,175 - 180,Yes,They are separate,Sometimes,"Yes, I have both",More than three times a week,Sometimes,Yes,-2,-1,1,-2,-1,-2,-1,-1,0,-2,-2,-1,-2,1,1,0,1,2,1,-1,2,-2,1,2,0,1,1,1,-1,1,1,-1,13.2236
+Female,120k - 150k,175 - 180,Yes,They conflict,Rarely,"Yes, I have both",At least once a week,Always,Yes,-1,-1,0,2,1,2,-1,-1,2,2,0,-2,0,1,0,-1,2,2,1,-2,2,-1,1,2,2,0,2,1,1,1,1,-2,5.77973
+Female,0 - 10k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Never,Yes,0,-2,1,1,0,0,1,-1,0,1,1,1,1,0,1,-1,-1,1,1,-2,2,-1,1,2,0,-2,2,0,-2,2,0,1,-10.3603
+Male,20k - 50k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have friends",At least once a week,Never,Yes,-2,-1,1,-1,-2,-2,0,-1,-2,0,-2,0,-1,2,0,2,-2,1,0,1,0,-1,-2,0,2,-2,0,-2,-1,0,0,0,16.5301
+Male,20k - 50k,165 - 170,Yes,They are separate,Sometimes,"Yes, I have both",Rarely,Always,Yes,-1,-1,2,1,0,-1,-1,-1,1,1,-1,0,1,0,1,0,0,1,0,0,1,-1,0,1,1,0,1,1,-1,1,0,-1,6.68191
+Male,80k - 120k,160 - 165,Yes,They are separate,Never,No,At least once a month,Rarely,No,0,-1,0,2,0,2,1,0,0,1,-1,1,-2,2,1,0,0,0,0,-2,0,-2,0,-2,0,0,0,0,0,0,2,0,23.6489
+Male,0 - 10k,180 - 185,Yes,They conflict,Rarely,"Yes, I have family",More than three times a week,Sometimes,Yes,-1,-1,-2,-2,-1,2,0,-1,1,-2,0,0,-1,0,0,-1,-2,2,0,-2,-2,-2,1,-2,-2,1,2,-2,-2,1,1,1,2.45963
+Female,10k - 15k,160 - 165,Yes,They conflict,Rarely,No,At least once a month,Rarely,Yes,-1,-1,1,1,-1,0,0,-1,0,0,0,1,0,1,1,1,0,0,0,-1,0,-1,0,1,0,-1,0,0,-1,1,0,0,-3.79906
+Male,0 - 10k,170 - 175,No,They conflict,Sometimes,"Yes, I have both",Rarely,Always,Yes,-1,-1,1,2,-1,0,-1,-1,1,1,-2,0,1,-2,0,1,0,1,0,0,-1,1,2,2,-2,0,-1,0,1,0,-1,2,-2.3846
+Female,200k above,155 - 160,Yes,They conflict,Never,"Yes, I have both",At least once a week,Sometimes,Yes,1,2,1,-2,0,1,0,0,1,2,0,0,-2,2,2,1,-2,-1,2,1,2,-1,2,1,2,0,-2,0,1,-2,1,-2,-5.48916
+Female,20k - 50k,165 - 170,Yes,They complement each other,Sometimes,No,No,Never,Yes,0,-2,2,2,0,1,0,0,1,-2,0,-2,0,-2,1,-2,0,1,-2,-2,0,-2,0,1,-2,0,1,1,-2,1,0,0,18.0714
+Male,10k - 15k,175 - 180,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Sometimes,Yes,-2,-2,2,1,2,2,-1,0,2,1,0,-2,-1,1,0,-2,1,2,2,-1,2,-1,2,1,-2,-1,0,1,-1,1,1,0,11.561
+Female,0 - 10k,170 - 175,Yes,They complement each other,Never,"Yes, I have both",More than three times a week,Sometimes,Yes,0,1,1,-2,2,1,-2,1,1,2,1,1,-1,1,0,-1,0,1,-2,0,0,0,2,-2,0,0,0,0,-2,0,0,-2,-10.3428
+Male,0 - 10k,170 - 175,Yes,They complement each other,Always,"Yes, I have both",At least once a month,Always,Yes,-1,0,0,0,0,1,-1,-1,0,1,0,1,0,0,1,0,0,0,0,-1,0,-1,0,1,1,1,1,1,0,0,2,0,-5.21521
+Male,80k - 120k,180 - 185,Yes,They are separate,Sometimes,"Yes, I have family",At least once a month,Sometimes,Yes,1,0,-2,1,1,-2,-1,-2,0,-2,-2,-2,-2,2,0,-2,1,0,1,-1,-2,-1,0,-2,0,-1,0,-2,0,1,2,0,32.5949
+Male,150k - 200k,175 - 180,Yes,They are separate,Always,"Yes, I have family",More than three times a week,Never,Yes,1,1,2,-2,-2,-2,0,0,-1,1,0,1,-2,0,0,0,0,0,-2,2,-1,0,-2,1,-2,-2,-2,-2,-2,1,1,0,3.01425
+Female,0 - 10k,150 - 155,Yes,They complement each other,Sometimes,No,More than three times a week,Never,No,0,1,2,-2,0,-2,0,-1,0,1,0,0,-1,0,2,0,1,0,1,-1,0,-1,1,-2,0,0,-2,1,-2,1,1,1,-10.2033
+Female,0 - 10k,140 - 150,Yes,They conflict,Sometimes,No,No,Rarely,No,-2,-2,2,-1,-2,0,0,-2,-2,2,1,-1,0,2,1,-1,0,0,1,2,0,-1,1,1,0,2,0,0,0,0,2,2,-6.06467
+Male,20k - 50k,170 - 175,Yes,They complement each other,Never,"Yes, I have family",Rarely,Always,Yes,-1,-1,2,1,2,1,-1,-2,1,2,-2,1,1,1,1,-2,-1,1,1,2,1,2,-2,2,1,-1,1,1,-2,1,0,-1,7.52916
+Female,0 - 10k,165 - 170,Yes,They are separate,Sometimes,"Yes, I have family",More than three times a week,Rarely,Yes,1,-2,0,-2,-1,0,-2,0,-2,-2,-2,0,1,1,1,0,-1,1,0,0,-2,-1,-1,0,0,1,1,0,1,0,1,1,-18.9383
+Female,0 - 10k,155 - 160,Yes,They are separate,Rarely,"Yes, I have family",At least once a week,Sometimes,Yes,0,2,1,1,0,1,0,1,2,0,-1,1,-1,0,1,-1,1,1,0,-2,0,-2,2,1,0,1,-2,1,0,1,0,0,-18.8835
+Male,80k - 120k,170 - 175,Yes,They are separate,Sometimes,"Yes, I have both",No,Always,Yes,-1,-1,2,2,1,2,-1,-1,2,1,1,-2,0,1,2,-1,2,1,1,-2,0,-1,1,2,1,-2,2,2,1,2,1,0,39.8761
+Male,0 - 10k,175 - 180,Yes,They are separate,Rarely,"Yes, I have family",Rarely,Sometimes,Yes,1,1,0,0,0,-1,-1,1,0,0,0,-1,0,0,0,-1,0,0,0,0,0,0,0,0,-1,1,0,0,1,0,0,1,-9.85411
+Female,0 - 10k,165 - 170,Yes,They conflict,Never,"Yes, I have both",At least once a month,Never,Yes,-1,-2,0,-2,-1,0,-2,-2,1,0,-2,-2,-2,0,-1,0,0,0,-1,-1,-2,-2,0,0,0,-2,0,0,1,0,0,1,-18.6084
+Female,150k - 200k,155 - 160,Yes,They complement each other,Never,"Yes, I have both",At least once a week,Rarely,Yes,-2,1,1,0,1,1,1,0,1,2,1,0,1,1,1,-1,0,1,2,1,1,-2,0,0,1,0,1,2,0,2,1,-1,3.42326
+Female,0 - 10k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Never,Yes,-1,-2,1,-2,1,1,-2,-1,1,2,-2,1,-1,0,2,-1,1,1,1,0,1,-2,2,2,-2,0,2,2,-1,2,1,0,-15.4349
+Female,150k - 200k,150 - 155,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Always,Yes,0,-2,2,1,0,1,2,-2,1,2,1,1,-2,1,2,-1,0,1,1,0,1,0,0,2,0,-1,2,2,-1,2,0,0,-6.40983
+Female,15k - 20k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Rarely,Yes,2,1,1,0,-2,1,0,-1,-2,1,0,-1,2,0,1,-2,0,0,0,-2,0,-2,0,2,1,1,0,-2,0,1,0,1,-5.99059
+Female,200k above,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have both",More than three times a week,Rarely,Yes,-1,-1,1,1,0,1,-2,-1,1,0,-1,0,0,0,0,-1,0,1,2,-2,0,-2,1,1,1,2,2,0,1,1,1,-1,30.3105
+Female,20k - 50k,170 - 175,Yes,They complement each other,Never,"Yes, I have family",At least once a week,Never,No,1,0,-2,1,-2,-2,0,-2,-2,0,0,-1,0,-2,-1,0,-1,1,0,0,0,0,-1,-2,0,-2,-1,-1,2,0,1,-1,13.7282
+Male,0 - 10k,175 - 180,Yes,They are separate,Always,"Yes, I have both",At least once a week,Sometimes,Yes,-2,1,2,1,1,1,-1,-2,2,1,-1,1,1,1,1,-1,1,1,1,-1,1,-1,2,2,1,1,1,1,0,2,1,-1,-9.39157
+Male,10k - 15k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have family",At least once a week,Sometimes,Yes,-2,0,0,0,-2,-2,-2,-2,0,1,-2,1,0,0,-2,0,0,1,0,-2,-1,-1,0,1,0,1,1,0,0,0,1,-2,-19.1772
+Male,15k - 20k,150 - 155,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Never,Yes,0,0,0,1,-2,-2,1,-1,0,0,0,-2,-1,1,0,-2,1,1,1,0,1,1,1,0,0,0,1,0,1,2,1,1,-1.02063
+Male,150k - 200k,155 - 160,Yes,They conflict,Sometimes,"Yes, I have both",More than three times a week,Always,Yes,-2,0,1,1,-2,-2,2,-1,-2,1,-1,-2,-2,-2,0,1,-2,2,0,1,-2,1,-2,-2,0,2,-2,0,0,0,-2,1,-4.39127
+Male,0 - 10k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Always,Yes,-1,-1,1,1,0,1,0,-1,1,1,0,0,0,0,1,-1,1,1,0,-1,0,-1,1,0,0,-1,1,1,0,1,0,0,-1.1294
+Male,50k - 80k,180 - 185,Yes,They conflict,Rarely,"Yes, I have family",Rarely,Sometimes,Yes,-2,0,0,-1,-2,-2,0,1,-1,-2,0,-2,0,0,-2,2,-1,0,-2,1,-2,1,-2,-1,-1,1,-1,-1,2,-1,0,1,12.0752
+Female,80k - 120k,150 - 155,Yes,They conflict,Rarely,No,At least once a week,Always,No,-2,0,2,1,1,0,1,-2,1,1,1,-2,0,-1,2,1,1,2,-2,1,2,-1,2,2,1,0,1,2,-1,1,-2,0,27.5981
+Male,10k - 15k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have family",Rarely,Sometimes,Yes,-1,-1,1,0,-1,0,-1,-1,1,0,0,1,1,1,1,-1,0,1,0,-1,0,-1,1,1,0,-1,1,0,0,1,1,0,-0.960889
+Female,150k - 200k,160 - 165,Yes,They complement each other,Never,"Yes, I have both",At least once a month,Sometimes,Yes,2,1,1,-2,0,0,1,0,0,0,0,0,1,0,-2,1,-1,0,0,2,0,-2,0,0,0,0,-1,-2,-2,-2,0,2,0.297758
+Male,15k - 20k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a month,Never,Yes,-2,1,0,0,1,0,-1,-2,1,2,0,-2,-1,1,1,0,0,1,0,0,1,0,0,1,0,1,0,-2,1,1,1,1,8.39871
+Male,0 - 10k,160 - 165,No,They complement each other,Sometimes,"Yes, I have both",Rarely,Sometimes,No,2,2,1,0,0,-1,0,1,0,0,-2,-2,2,-2,0,0,-1,0,0,2,-2,2,1,-2,-2,2,1,-2,0,0,0,2,-21.6646
+Male,0 - 10k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have both",More than three times a week,Never,Yes,0,-2,1,1,-1,-2,-2,-1,1,1,-2,0,1,-1,1,0,1,1,0,-2,0,-1,0,1,-2,0,0,-2,1,1,0,-2,1.80823
+Other,50k - 80k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a month,Always,Yes,-1,-1,1,1,-2,1,0,-1,0,1,-1,-2,-2,0,0,-2,1,1,2,-1,1,-1,1,1,0,-1,1,0,-1,1,1,-1,35.1203
+Male,20k - 50k,180 - 185,Yes,They are separate,Rarely,No,More than three times a week,Never,Yes,0,0,1,2,-2,-2,0,-1,0,0,-2,-2,0,0,0,1,0,0,-2,0,-2,0,0,-2,1,-1,-2,0,-2,1,0,-2,11.5286
+Male,0 - 10k,170 - 175,Yes,They complement each other,Rarely,"Yes, I have both",Rarely,Never,No,0,1,0,-1,-1,-1,0,0,0,1,0,0,2,0,0,0,0,1,-2,2,0,0,0,0,0,2,0,0,1,0,0,0,-10.7487
+Male,15k - 20k,175 - 180,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Sometimes,Yes,-2,-1,0,0,0,0,0,0,2,1,-2,1,-2,1,0,0,1,1,2,-2,1,-2,1,0,1,-1,1,-2,1,1,1,-2,11.236
+Female,0 - 10k,155 - 160,Yes,They are separate,Never,"Yes, I have both",At least once a month,Rarely,Yes,-1,-1,0,0,0,1,0,-2,0,0,-2,1,1,1,1,-1,-2,1,2,-2,-2,-2,-2,1,1,0,1,1,-1,1,-2,0,-11.0102
+Male,10k - 15k,170 - 175,Yes,They conflict,Rarely,No,At least once a month,Always,Yes,-2,-2,1,2,2,2,0,-2,2,0,-2,-1,-2,1,-2,-1,0,2,0,-1,0,-1,2,2,2,-2,1,2,0,2,1,-1,-11.573
+Other,20k - 50k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Sometimes,Yes,-1,0,0,1,-2,0,-2,-2,2,1,0,1,1,1,1,2,1,2,0,-2,-2,-2,1,1,0,1,1,-1,0,1,-2,1,6.14903
+Female,0 - 10k,160 - 165,Yes,They complement each other,Always,"Yes, I have both",At least once a week,Always,Yes,-1,-1,1,-1,0,1,1,-1,2,0,-1,0,-1,1,1,-1,1,1,1,0,1,-1,2,1,1,-1,1,1,-1,2,1,-1,-3.41804
+Male,150k - 200k,165 - 170,Yes,They conflict,Sometimes,"Yes, I have both",At least once a month,Never,No,0,-2,1,2,-2,0,0,1,-2,2,-2,0,2,0,1,1,-1,2,2,1,1,-2,-2,0,2,0,-1,1,2,-2,0,0,4.30881
+Female,10k - 15k,155 - 160,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Sometimes,Yes,-1,-2,1,0,-2,2,-2,-1,2,1,-2,1,-2,0,1,0,-2,1,0,-1,1,-1,2,2,1,2,2,2,-2,1,0,-2,-1.48621
+Female,200k above,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Sometimes,Yes,0,0,1,1,-1,0,0,-1,-2,0,0,-1,1,0,0,0,0,0,0,0,-2,0,-2,-2,-2,0,-2,-2,-2,1,0,1,13.7575
+Female,120k - 150k,165 - 170,Yes,They are separate,Rarely,"Yes, I have both",More than three times a week,Rarely,Yes,0,-2,1,-2,-2,1,-1,-2,1,2,0,0,1,0,0,-1,2,2,2,-1,2,-2,1,1,1,-2,2,1,-2,2,2,-1,8.84818
+Male,200k above,170 - 175,Yes,They are separate,Sometimes,"Yes, I have family",More than three times a week,Rarely,No,1,2,2,-1,-2,-2,1,1,0,-2,0,1,1,0,2,0,-2,0,1,0,0,-2,0,0,-1,2,-2,0,0,-2,0,1,-0.52366
+Female,150k - 200k,160 - 165,Yes,They complement each other,Never,"Yes, I have both",More than three times a week,Always,Yes,0,2,2,-2,1,0,0,-2,0,0,2,0,1,-2,2,-2,1,2,1,-1,0,-1,2,1,0,-2,0,2,-2,1,0,-2,-3.24668
+Male,0 - 10k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Rarely,Yes,-2,0,0,-1,0,0,-2,-2,-2,-2,-2,0,0,0,-2,0,-2,1,-2,-2,-2,-2,0,0,-2,0,1,0,0,1,0,0,-6.07237
+Male,20k - 50k,160 - 165,Yes,They complement each other,Always,"Yes, I have family",More than three times a week,Always,Yes,0,0,1,1,1,1,-2,-2,1,2,0,0,-2,1,1,0,2,2,1,-1,1,-1,1,0,1,-2,0,1,-2,2,2,-1,3.99318
+Female,20k - 50k,170 - 175,Yes,They complement each other,Always,"Yes, I have family",At least once a month,Rarely,Yes,0,0,2,0,1,-2,1,0,-2,1,-2,-2,0,-2,-2,0,0,2,0,1,0,0,0,0,2,0,-2,0,1,1,-1,-2,4.0647
+Male,20k - 50k,175 - 180,Yes,They are separate,Sometimes,"Yes, I have both",More than three times a week,Rarely,Yes,1,1,1,2,0,0,0,-2,1,0,-2,0,-2,2,1,1,1,2,0,1,-1,-2,1,2,-2,0,1,0,-1,0,1,0,8.8888
+Male,150k - 200k,175 - 180,Yes,They conflict,Sometimes,"Yes, I have family",No,Never,No,1,1,1,-2,2,0,-2,0,1,1,-2,2,2,1,1,0,1,1,1,1,1,0,1,0,0,0,1,1,-2,1,-2,1,-2.27611
+Female,0 - 10k,155 - 160,Yes,They complement each other,Always,"Yes, I have both",At least once a week,Always,Yes,-2,0,1,-2,2,0,1,-2,1,2,-2,2,2,1,2,0,1,1,1,-2,1,-1,2,1,1,-2,1,2,-1,1,0,1,-11.5926
+Female,15k - 20k,150 - 155,Yes,They complement each other,Rarely,"Yes, I have both",At least once a month,Never,Yes,-2,-2,2,1,1,1,0,-2,1,2,-2,0,-2,0,0,0,2,1,1,1,1,-1,1,2,2,0,0,1,-2,0,1,-2,0.416021
+Female,10k - 15k,165 - 170,Yes,They conflict,Never,"Yes, I have both",At least once a month,Always,Yes,-1,-1,1,0,1,1,-2,-1,-2,2,0,1,0,1,0,0,1,1,2,-1,2,-2,-2,1,1,-2,1,1,-1,1,0,-1,3.16271
+Male,10k - 15k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",More than three times a week,Sometimes,Yes,-2,-1,0,-1,-2,-2,0,-1,0,-2,-1,0,-1,0,-2,0,-1,1,-2,0,0,-2,0,0,-2,1,1,-2,1,0,1,-2,-7.75246
+Male,120k - 150k,170 - 175,Yes,They conflict,Always,"Yes, I have both",At least once a month,Never,Yes,-2,0,1,-1,2,0,-2,0,-2,1,1,-2,2,1,-2,-1,0,0,1,1,1,-2,0,1,2,1,0,0,1,0,1,-2,1.40485
+Male,150k - 200k,175 - 180,Yes,They conflict,Never,No,At least once a week,Always,Yes,-1,-2,2,0,-2,0,0,-1,1,1,-1,0,-2,0,1,1,-2,2,1,1,1,0,0,0,2,-2,0,1,-2,2,1,0,7.59498
+Male,80k - 120k,170 - 175,Yes,They conflict,Always,"Yes, I have family",At least once a week,Always,Yes,-1,0,1,1,0,0,0,-1,-2,1,0,0,1,0,1,2,0,0,0,0,1,-2,-1,1,1,-2,-2,1,-2,0,0,0,22.5221
+Female,150k - 200k,170 - 175,Yes,They complement each other,Never,"Yes, I have family",At least once a month,Sometimes,Yes,-2,-2,0,-2,0,0,0,-2,0,-2,-1,1,0,-1,0,1,0,-1,0,-1,-2,0,-2,-2,1,-1,0,-1,-1,0,-2,0,-10.3496
+Female,150k - 200k,165 - 170,Yes,They complement each other,Never,No,At least once a week,Never,Yes,-1,-1,2,0,-2,2,0,-1,2,0,-1,-1,-1,0,2,-1,2,2,1,-1,1,-2,2,2,-1,0,1,2,-1,1,0,-2,0.792887
+Male,120k - 150k,170 - 175,Yes,They are separate,Sometimes,"Yes, I have both",At least once a week,Always,No,0,0,-1,-1,0,-1,0,-1,-2,-1,-1,1,-2,0,0,-2,-2,-1,-2,-1,-2,-1,-2,-2,-1,1,-2,-2,0,-2,0,2,0.616968
+Male,20k - 50k,165 - 170,Yes,They are separate,Rarely,"Yes, I have family",At least once a week,Never,Yes,-1,-1,2,1,2,2,-1,-1,2,2,-1,0,-2,1,-2,-1,0,2,2,0,1,-1,1,2,0,-2,1,0,0,1,0,-2,27.6123
+Female,80k - 120k,165 - 170,Yes,They complement each other,Never,"Yes, I have family",More than three times a week,Sometimes,Yes,-1,-1,1,1,-2,0,-1,-2,1,0,0,0,-1,0,0,-2,1,1,0,-1,0,-1,0,-2,1,-1,1,-2,-1,1,1,-1,31.1046
+Male,0 - 10k,160 - 165,Yes,They are separate,Sometimes,"Yes, I have family",At least once a month,Sometimes,Yes,-2,-2,1,2,1,1,-1,-2,1,1,-2,1,-1,1,0,-2,1,2,0,-1,0,-1,1,1,0,-2,1,2,-1,1,0,-1,-4.67033
+Male,0 - 10k,170 - 175,Yes,They are separate,Rarely,"Yes, I have family",At least once a week,Always,Yes,-1,-2,1,0,-2,0,-2,-1,1,1,-1,-2,0,1,0,-1,-1,1,1,1,2,-2,1,1,0,0,0,1,0,1,1,-2,-11.4845
+Female,20k - 50k,155 - 160,Yes,They conflict,Sometimes,No,No,Always,No,0,-2,1,1,0,0,0,-2,0,0,-2,-2,-2,0,1,-2,-2,1,0,1,0,2,0,1,1,1,0,2,1,1,0,-1,9.93367
+Male,0 - 10k,170 - 175,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Sometimes,Yes,1,0,1,1,2,0,0,1,1,2,-2,0,-2,0,0,0,1,2,2,0,-2,0,0,0,1,-2,1,2,-2,1,1,-1,-13.8345
+Male,15k - 20k,175 - 180,Yes,They complement each other,Never,"Yes, I have family",At least once a week,Rarely,Yes,-2,-1,2,2,0,2,0,-2,1,2,-2,1,0,1,0,-2,0,1,1,-1,1,-1,1,1,1,-1,1,1,0,1,0,-1,9.92209
+Male,80k - 120k,190 above,Yes,They complement each other,Sometimes,"Yes, I have both",Rarely,Never,Yes,-1,-1,1,0,-1,-1,1,-2,0,-2,-1,0,0,0,1,1,1,0,-2,1,0,1,0,0,0,-1,2,-2,-2,0,0,0,21.7113
+Female,120k - 150k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Never,Yes,-1,-1,1,0,0,0,1,-1,0,0,-2,-2,-2,-2,1,-1,0,1,1,0,2,-1,0,1,-2,-2,1,1,-1,1,0,0,9.70253
+Male,0 - 10k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Never,Yes,2,1,0,-2,-2,-2,0,0,-1,0,1,-2,1,-2,-2,-1,0,1,0,0,-2,-2,-2,0,1,2,-2,0,-2,-2,1,0,-29.4368
+Male,20k - 50k,165 - 170,Yes,They are separate,Sometimes,"Yes, I have both",No,Never,No,-1,-2,0,0,0,-2,0,-1,-2,0,-1,-1,-1,0,-1,0,-2,2,-2,1,-2,-2,-2,1,0,1,1,-1,0,1,0,-1,8.74634
+Female,200k above,160 - 165,Yes,They complement each other,Never,"Yes, I have both",No,Always,No,0,0,0,-2,-1,-1,0,-1,-2,-2,-1,-1,-1,-2,0,1,-2,0,0,2,1,0,1,-2,1,1,0,-2,0,0,1,0,13.0045
+Male,0 - 10k,170 - 175,Yes,They are separate,Sometimes,"Yes, I have family",More than three times a week,Sometimes,Yes,1,1,0,-1,-2,0,-2,1,0,-2,0,-2,1,-2,-2,-2,-2,0,1,1,-2,-1,-2,0,0,1,-2,-2,0,0,0,1,-24.9427
+Male,80k - 120k,160 - 165,Yes,They complement each other,Sometimes,No,Rarely,Never,No,1,-2,2,1,0,0,2,-2,0,0,0,-1,1,0,0,-2,-2,0,0,0,0,0,0,1,0,1,0,-2,2,1,1,-2,15.7552
+Female,0 - 10k,140 - 150,Yes,They conflict,Sometimes,"Yes, I have family",More than three times a week,Sometimes,Yes,-1,-1,1,0,0,0,-1,-2,2,2,0,2,1,1,2,-1,1,2,2,0,1,-1,2,1,2,-1,2,1,-2,1,2,-2,-20.9441
+Female,15k - 20k,160 - 165,Yes,They conflict,Never,"Yes, I have both",At least once a month,Rarely,Yes,-1,-1,1,0,1,1,0,-2,0,0,-2,2,2,0,1,-2,0,2,1,0,2,-1,1,1,2,-2,1,0,-2,0,0,-2,-2.11228
+Male,50k - 80k,175 - 180,Yes,They are separate,Sometimes,"Yes, I have both",At least once a week,Always,Yes,-2,-2,1,0,0,0,-1,-1,-2,0,-1,-1,0,-2,0,0,-1,1,-2,0,0,1,0,0,-2,0,1,-1,-1,1,-1,0,12.5322
+Male,15k - 20k,175 - 180,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Rarely,No,1,0,0,-2,-2,0,-2,-2,-1,-1,1,0,1,1,2,1,0,0,-1,0,-2,0,0,0,-1,1,-2,-1,1,-2,0,2,0.0694285
+Male,0 - 10k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Sometimes,Yes,-1,-1,0,1,-2,-2,-1,-1,0,1,-1,0,0,1,0,-2,0,1,0,0,0,0,0,1,1,-2,1,-2,0,0,0,-2,-20.6094
+Female,150k - 200k,170 - 175,Yes,They conflict,Sometimes,"Yes, I have both",Rarely,Rarely,Yes,1,0,1,0,-1,-1,0,0,0,0,0,0,0,-2,0,1,-2,0,0,2,-2,0,0,-2,1,0,-2,-2,2,-2,0,2,0.495012
+Male,0 - 10k,155 - 160,Yes,They are separate,Sometimes,"Yes, I have family",More than three times a week,Rarely,Yes,0,1,0,0,1,1,2,0,0,0,-1,1,0,1,2,-1,-2,1,1,0,1,-2,1,1,0,2,0,2,-2,2,0,0,-16.563
+Male,20k - 50k,180 - 185,Yes,They complement each other,Sometimes,"Yes, I have family",Rarely,Always,No,1,1,1,0,0,0,0,2,-2,1,0,2,1,0,0,2,-1,1,1,1,0,2,-2,-2,0,2,-2,-2,2,0,0,-2,11.5348
+Male,0 - 10k,185 - 190,Yes,They conflict,Sometimes,No,At least once a week,Always,Yes,1,2,1,-1,2,1,0,-2,-1,-1,2,0,2,2,1,1,-1,2,-1,2,1,-1,1,2,0,1,1,1,1,0,0,1,-21.6516
+Male,200k above,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a week,Never,Yes,1,0,1,1,-2,1,1,-2,0,0,-2,1,-2,2,0,1,-2,0,2,1,0,-2,2,1,0,-2,-2,0,0,1,1,2,10.0993
+Female,0 - 10k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a month,Sometimes,Yes,-2,0,2,0,1,0,-2,-1,0,1,0,-1,-2,-2,2,-2,2,1,0,-1,0,1,2,1,0,-2,0,1,-2,0,1,1,-30.1808
+Female,0 - 10k,175 - 180,Yes,They complement each other,Rarely,"Yes, I have family",Rarely,Sometimes,Yes,-1,-1,1,2,1,1,-1,-1,1,1,-1,1,-1,-1,-1,-1,0,1,1,-1,1,-1,1,1,1,-1,1,1,1,1,0,-1,-1.1255
+Female,10k - 15k,140 - 150,Yes,They are separate,Rarely,"Yes, I have both",Rarely,Always,Yes,-2,0,2,-2,-2,0,-1,-2,1,1,0,-2,0,1,0,-1,0,1,0,2,1,-1,2,2,0,1,1,0,-2,2,1,0,-2.26376
+Female,0 - 10k,165 - 170,Yes,They complement each other,Never,"Yes, I have family",More than three times a week,Never,Yes,-2,-2,1,-2,0,0,-1,-1,-2,1,1,1,2,0,1,-1,2,0,1,-2,0,-1,2,1,0,-2,2,2,0,1,1,0,-10.986
+Male,10k - 15k,165 - 170,No,They complement each other,Sometimes,"Yes, I have both",No,Rarely,Yes,-2,-2,-2,-1,0,1,-2,-1,0,1,-1,1,0,0,-1,-1,-1,1,-2,2,-1,-2,-2,0,-2,1,0,-1,0,1,0,1,0.782723
+Male,200k above,165 - 170,Yes,They are separate,Rarely,"Yes, I have both",At least once a week,Sometimes,Yes,-1,-1,2,2,1,1,-1,-1,1,1,-2,1,-2,0,0,-2,1,2,1,-1,2,-1,1,2,0,0,1,1,-1,2,1,-1,18.3059
+Male,0 - 10k,165 - 170,Yes,They are separate,Sometimes,"Yes, I have both",At least once a week,Always,Yes,0,0,0,-1,0,0,0,-1,0,0,0,0,-1,0,0,1,0,1,0,-1,0,-1,1,0,0,0,0,0,-1,1,1,1,-6.21555
+Male,120k - 150k,175 - 180,Yes,They conflict,Sometimes,"Yes, I have both",At least once a week,Always,No,0,0,1,-2,1,0,2,-2,1,0,-2,2,-2,0,-2,0,1,0,0,-2,0,-1,2,0,0,1,0,0,-1,0,0,1,-6.13675
+Male,80k - 120k,165 - 170,Yes,They complement each other,Rarely,No,At least once a week,Rarely,Yes,-2,-2,0,-2,0,-2,-2,1,0,-2,0,-2,1,-2,0,0,0,0,0,0,0,1,2,0,-2,1,-1,-1,0,-2,-2,0,12.5627
+Female,20k - 50k,140 - 150,No,They complement each other,Sometimes,"Yes, I have family",At least once a week,Sometimes,Yes,-2,-1,-1,-1,-2,-1,0,0,-1,-1,-2,-2,-1,-2,-2,-1,1,0,0,0,-1,1,-2,0,0,-1,-1,-1,0,-1,1,0,3.97437
+Female,80k - 120k,165 - 170,Yes,They complement each other,Always,"Yes, I have both",Rarely,Rarely,No,0,0,2,1,1,0,-2,-1,1,0,0,1,0,0,1,2,0,1,0,0,0,2,1,1,1,1,-2,0,-2,1,0,0,28.4955
+Male,200k above,185 - 190,Yes,They complement each other,Never,"Yes, I have both",At least once a month,Never,Yes,0,1,1,0,1,-2,-2,-2,-2,0,1,-1,1,-2,0,2,-2,0,-2,0,1,0,-2,-2,-2,-2,0,-1,0,-2,1,0,3.93581
+Male,150k - 200k,170 - 175,No,They complement each other,Sometimes,"Yes, I have both",Rarely,Never,Yes,0,1,1,-1,-2,-2,1,0,1,-2,0,-1,0,0,0,1,0,0,-2,2,-1,0,-2,-2,-2,2,0,0,2,1,0,0,-13.8293
+Male,80k - 120k,185 - 190,Yes,They are separate,Never,"Yes, I have family",At least once a week,Always,Yes,-2,-2,2,2,1,2,-1,-1,1,2,0,0,-2,0,2,-2,1,2,2,-1,2,-1,1,1,2,-2,2,2,-1,2,1,-2,39.1506
+Male,20k - 50k,180 - 185,Yes,They complement each other,Never,"Yes, I have both",No,Never,Yes,-2,-2,0,1,0,1,0,-1,0,0,0,-2,0,1,-2,0,1,2,1,0,2,0,1,2,0,1,0,0,-2,2,0,-2,8.10825
+Female,150k - 200k,180 - 185,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Always,Yes,0,1,1,0,1,0,0,1,2,1,1,0,0,0,0,1,0,0,1,-2,2,0,1,1,2,-2,2,1,1,1,2,-1,-7.52369
+Female,120k - 150k,175 - 180,Yes,They conflict,Sometimes,"Yes, I have both",More than three times a week,Sometimes,Yes,0,0,2,2,-2,0,-2,0,1,2,0,0,0,0,1,1,2,1,1,0,0,-2,2,1,0,-2,1,2,1,0,1,-2,-10.591
+Male,0 - 10k,170 - 175,Yes,They conflict,Sometimes,"Yes, I have both",At least once a week,Always,Yes,0,1,2,0,-2,1,1,-2,1,1,-1,-1,-1,1,1,1,-1,1,2,1,1,0,1,2,1,0,-1,0,2,0,1,1,-10.7202
+Female,0 - 10k,155 - 160,Yes,They complement each other,Never,"Yes, I have both",At least once a month,Always,Yes,-2,0,1,0,0,-2,2,-1,-2,2,-2,0,2,-2,0,-1,0,0,1,0,0,-1,0,0,1,1,0,2,-1,0,-2,1,-10.0258
+Male,0 - 10k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have family",More than three times a week,Rarely,Yes,-2,-2,2,0,1,0,-1,-2,2,2,-1,0,1,0,2,-2,0,2,2,-1,-2,-1,1,0,1,0,0,2,-1,1,-2,-1,-20.0346
+Male,15k - 20k,180 - 185,Yes,They complement each other,Always,"Yes, I have both",More than three times a week,Rarely,Yes,-2,-2,1,-2,0,1,-1,-1,0,1,-1,-1,0,0,-1,1,0,2,-1,0,0,1,0,1,-2,-2,0,-2,1,1,0,-2,-5.1659
+Female,0 - 10k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have both",No,Rarely,Yes,-2,1,1,0,-1,1,1,-2,2,0,-2,-2,0,0,0,-1,0,1,-2,1,0,-2,1,0,0,-2,1,0,-2,1,-2,0,-7.60252
+Male,50k - 80k,165 - 170,Yes,They conflict,Never,"Yes, I have family",More than three times a week,Always,Yes,-1,-1,2,2,-2,2,0,-1,2,1,-1,0,0,0,1,0,1,2,2,-2,1,-1,2,2,1,-1,2,2,-1,2,0,-2,19.2528
+Female,0 - 10k,165 - 170,Yes,They conflict,Rarely,No,More than three times a week,Rarely,Yes,0,0,1,0,1,2,-1,-2,2,1,-1,0,-2,1,1,1,-1,1,2,-2,1,-2,2,0,0,0,1,0,-1,1,0,0,-13.658
+Female,0 - 10k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have family",Rarely,Sometimes,Yes,-1,0,1,0,-2,-1,1,-1,-1,-1,-1,-1,-1,-1,1,-2,1,1,0,-2,1,-1,-2,-1,0,0,-1,0,-1,0,0,-1,-6.55485
+Male,0 - 10k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Sometimes,Yes,0,1,1,2,1,1,0,0,2,2,1,1,0,1,1,0,1,1,1,0,1,-1,0,0,1,0,1,1,1,1,1,-1,-10.6553
+Male,10k - 15k,180 - 185,Yes,They are separate,Always,"Yes, I have both",At least once a week,Always,Yes,-1,0,1,1,2,2,0,-1,1,2,0,0,1,2,2,-2,2,2,2,-2,2,-1,2,1,2,-2,2,2,-1,2,1,1,10.5272
+Male,0 - 10k,170 - 175,Yes,They are separate,Rarely,"Yes, I have friends",At least once a month,Never,No,1,1,0,-2,0,0,1,1,-2,-2,-1,1,-1,1,1,0,-2,1,2,-1,-2,0,1,0,2,1,1,-2,0,1,0,-2,-20.5916
+Male,120k - 150k,165 - 170,Yes,They conflict,Rarely,"Yes, I have both",More than three times a week,Always,Yes,-2,-2,1,1,0,1,2,0,0,1,-2,1,2,-2,2,1,-2,0,0,1,0,1,1,2,0,0,-2,-2,0,-1,0,0,-5.32572
+Female,15k - 20k,160 - 165,Yes,They conflict,Rarely,"Yes, I have family",At least once a month,Sometimes,Yes,1,-2,1,-2,0,1,0,0,1,0,-2,0,-1,-2,-1,1,-2,1,-1,-2,0,-1,1,2,0,-1,-2,-2,-2,0,0,-2,1.72755
+Male,20k - 50k,170 - 175,Yes,They complement each other,Always,"Yes, I have both",At least once a month,Always,Yes,-1,-2,1,-1,0,0,0,-1,1,1,-1,1,0,0,0,-1,0,2,1,-2,1,-1,1,0,0,-1,1,1,-1,1,0,1,7.10222
+Female,0 - 10k,180 - 185,Yes,They are separate,Sometimes,"Yes, I have family",More than three times a week,Rarely,Yes,-2,0,2,2,0,1,-2,-1,1,1,-2,0,0,0,1,1,0,1,1,1,1,-1,2,2,1,1,0,1,-1,1,-1,-2,-6.33507
+Male,80k - 120k,160 - 165,Yes,They complement each other,Never,No,At least once a month,Never,No,0,0,2,2,-2,0,1,0,2,1,-1,-2,1,1,2,1,1,1,0,-1,-2,-1,1,2,2,2,0,0,-2,0,0,-2,15.1318
+Male,10k - 15k,170 - 175,Yes,They conflict,Sometimes,"Yes, I have both",At least once a month,Rarely,Yes,-1,-1,-2,0,2,1,-1,-2,-2,1,0,1,0,2,2,-2,1,2,2,1,1,0,1,2,0,0,0,1,1,1,1,0,-3.8297
+Female,0 - 10k,160 - 165,Yes,They are separate,Always,"Yes, I have both",At least once a week,Sometimes,No,1,1,1,-1,-1,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,-12.3875
+Male,0 - 10k,160 - 165,Yes,They are separate,Rarely,"Yes, I have family",More than three times a week,Never,Yes,-1,-1,1,1,-2,0,-2,-1,1,1,-1,0,1,0,0,-1,0,2,1,1,0,-2,2,1,-2,0,-2,1,1,0,1,1,-6.21064
+Male,10k - 15k,175 - 180,Yes,They complement each other,Rarely,"Yes, I have family",At least once a month,Rarely,Yes,1,0,0,2,2,0,0,1,2,2,1,0,1,0,0,2,1,1,2,1,2,-2,1,1,1,1,2,1,-1,1,1,-2,7.15831
+Female,20k - 50k,160 - 165,Yes,They complement each other,Never,"Yes, I have family",More than three times a week,Sometimes,No,-2,-2,1,1,1,0,0,-2,1,0,1,2,-1,2,0,-2,1,1,1,1,0,-1,0,0,2,-2,1,2,-2,1,1,-1,24.0586
+Female,15k - 20k,150 - 155,Yes,They conflict,Rarely,"Yes, I have family",More than three times a week,Always,Yes,-2,-1,1,0,-2,0,0,-2,1,2,-1,0,1,0,1,-2,1,0,1,0,0,0,0,-2,1,-2,-2,0,0,0,1,-2,1.59857
+Male,0 - 10k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Always,Yes,2,0,0,0,2,2,2,-2,1,1,0,1,-1,1,-2,-2,-2,2,0,0,0,-1,1,1,1,-2,1,1,-1,2,1,-2,-9.23341
+Male,50k - 80k,175 - 180,Yes,They are separate,Sometimes,"Yes, I have family",Rarely,Rarely,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9.69569
+Male,10k - 15k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",No,Rarely,Yes,1,0,2,1,0,0,0,0,-2,1,0,1,2,1,-2,-2,-1,1,0,0,1,-2,0,0,-2,2,-2,1,0,0,0,0,-6.87652
+Female,150k - 200k,155 - 160,Yes,They are separate,Sometimes,"Yes, I have friends",At least once a week,Sometimes,Yes,-1,-1,2,1,0,0,0,-1,0,0,-1,1,1,0,0,1,0,1,1,1,1,-1,-1,1,1,1,0,0,1,0,0,2,-3.34255
+Male,0 - 10k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",No,Never,Yes,1,1,1,0,0,-2,0,2,1,0,0,-2,1,0,1,0,-2,1,1,0,0,-1,1,0,0,1,0,0,1,0,1,0,-31.0033
+Other,120k - 150k,170 - 175,Yes,They conflict,Always,"Yes, I have both",At least once a week,Always,Yes,-1,-2,1,2,2,2,-2,-1,-2,1,0,0,-1,-2,2,-1,0,2,1,-2,1,-1,0,2,-1,-2,2,2,-1,0,-2,-1,2.07265
+Female,0 - 10k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have friends",Rarely,Sometimes,Yes,-2,0,2,-2,0,1,-1,-1,0,0,1,0,-1,-2,0,0,0,0,0,-2,2,-2,1,2,-2,-1,1,-2,-2,1,0,-1,-16.2268
+Female,120k - 150k,170 - 175,Yes,They complement each other,Never,"Yes, I have both",No,Always,Yes,-1,-2,2,-1,0,1,1,0,1,0,0,0,1,0,1,-1,-2,0,0,0,0,0,1,1,-2,1,1,-2,-1,1,-2,-1,-1.17088
+Male,80k - 120k,170 - 175,Yes,They complement each other,Never,"Yes, I have both",Rarely,Always,Yes,0,1,0,1,0,2,1,0,1,0,0,1,-2,0,0,2,-2,1,1,-2,-2,-2,0,1,0,-2,0,-2,1,1,1,-2,5.95559
+Male,0 - 10k,170 - 175,Yes,They are separate,Sometimes,"Yes, I have both",Rarely,Sometimes,Yes,1,1,1,-1,1,1,1,1,2,0,-1,0,-1,1,1,-1,0,0,0,0,-1,1,1,1,0,0,1,1,-1,1,1,-2,-10.7991
+Male,80k - 120k,185 - 190,Yes,They conflict,Never,"Yes, I have both",Rarely,Always,No,-2,-2,2,-2,-1,0,1,0,0,1,-1,-2,1,-2,-2,0,-2,1,0,2,1,-1,-2,-2,0,1,1,2,1,1,0,0,33.9774
+Female,120k - 150k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have family",No,Never,Yes,-2,-2,2,-1,0,1,1,-2,2,-1,-2,-1,-1,1,1,-2,1,1,-2,-2,-2,-1,1,1,0,-1,2,1,-1,2,0,-2,-7.23906
+Male,15k - 20k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have family",No,Sometimes,Yes,-2,-2,1,2,-2,-2,1,-2,0,0,-2,1,-1,0,1,2,0,1,0,1,1,-1,1,1,1,1,0,-2,-2,-2,0,2,1.66489
+Male,0 - 10k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",At least once a month,Sometimes,Yes,-1,-2,1,2,-1,1,-2,-1,2,1,-1,0,-1,1,-2,-2,1,1,0,0,0,-2,2,1,-2,0,-2,-2,-2,1,-2,1,-17.013
+Female,0 - 10k,155 - 160,Yes,They conflict,Rarely,"Yes, I have both",More than three times a week,Never,No,1,1,0,-2,-2,-2,0,1,1,0,0,0,0,0,1,0,1,1,0,0,-2,-2,-2,1,0,1,-1,0,0,0,0,-2,-26.3814
+Male,200k above,155 - 160,Yes,They complement each other,Rarely,"Yes, I have family",At least once a month,Rarely,Yes,0,0,0,-1,1,-2,1,0,-2,-2,2,0,0,1,0,-2,0,0,1,1,0,1,1,1,1,0,0,-2,0,0,1,-2,7.35771
+Male,200k above,155 - 160,Yes,They conflict,Always,"Yes, I have both",At least once a month,Never,Yes,-2,-2,1,1,2,1,0,-2,1,2,-1,1,1,1,1,-1,1,2,1,-2,0,-2,1,2,1,-2,0,0,-1,1,0,-2,6.42488
+Male,0 - 10k,165 - 170,Yes,They complement each other,Sometimes,No,At least once a week,Sometimes,No,0,1,-2,-2,0,0,0,-2,0,-2,-1,2,-1,0,-1,1,-2,0,1,0,0,-2,-2,0,0,1,0,0,1,0,1,1,-20.2514
+Female,15k - 20k,175 - 180,Yes,They complement each other,Never,"Yes, I have both",More than three times a week,Never,Yes,-2,0,2,2,-2,0,1,-1,2,2,0,-1,-1,0,1,1,1,1,-2,-1,1,0,2,1,0,-2,1,1,-1,2,0,-1,0.266038
+Male,0 - 10k,170 - 175,Yes,They are separate,Rarely,No,At least once a month,Always,Yes,-2,-1,0,-1,1,1,-2,-2,0,0,-2,0,2,1,0,-1,1,1,1,-2,1,-1,1,0,1,0,2,0,-2,2,2,-2,-0.705852
+Male,10k - 15k,170 - 175,Yes,They are separate,Never,"Yes, I have family",No,Never,No,2,1,0,-2,-1,-1,-2,1,-1,1,0,-2,1,-2,-2,0,-1,1,1,1,0,0,-2,0,0,2,-2,-2,2,-2,0,2,-16.6166
+Male,0 - 10k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have family",At least once a week,Rarely,Yes,0,-2,1,-2,-2,0,0,0,0,1,1,0,0,0,-2,0,0,1,2,-2,0,-2,0,0,1,0,1,1,-2,1,1,-1,-5.30859
+Other,120k - 150k,180 - 185,Yes,They complement each other,Sometimes,"Yes, I have family",No,Never,Yes,0,1,1,0,0,-2,-2,-2,-2,0,-1,-1,-2,0,1,0,0,2,1,0,-2,-2,0,1,-1,0,0,0,-2,0,0,0,-4.498
+Male,0 - 10k,175 - 180,Yes,They conflict,Sometimes,"Yes, I have both",More than three times a week,Always,Yes,-1,-1,0,1,0,0,1,-1,1,1,-1,0,-1,1,1,0,0,1,0,0,0,-1,1,0,-1,0,0,0,0,0,-1,0,-1.41073
+Female,15k - 20k,160 - 165,Yes,They conflict,Never,"Yes, I have both",At least once a month,Sometimes,Yes,-2,-2,1,2,0,0,1,0,1,2,0,1,-2,-2,1,-2,2,2,1,0,0,1,0,1,1,1,0,0,1,1,0,0,-4.31439
+Male,0 - 10k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Sometimes,No,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,1,1,0,0,-1,0,1,1,0,1,-1,1,0,0,1,0,-1,0,0,1,1,-5.48655
+Male,15k - 20k,155 - 160,Yes,They are separate,Never,"Yes, I have both",At least once a week,Rarely,Yes,-2,-1,1,1,0,0,0,0,0,2,-1,-2,0,1,1,-1,1,2,1,-2,-2,1,-2,0,-2,-2,1,1,0,2,1,-2,11.6434
+Male,0 - 10k,180 - 185,No,They complement each other,Sometimes,"Yes, I have family",Rarely,Sometimes,Yes,-1,-1,0,0,0,0,0,-1,0,0,-1,-1,-1,-1,-1,-1,-1,0,-1,0,0,1,0,0,0,0,1,-1,0,1,0,0,-0.310245
+Female,0 - 10k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Always,Yes,1,1,2,-1,2,0,1,1,1,0,0,0,1,0,1,0,-1,0,0,0,0,0,1,1,1,1,1,0,-1,0,0,0,-12.9155
+Male,15k - 20k,165 - 170,Yes,They are separate,Sometimes,"Yes, I have family",At least once a month,Always,Yes,-1,0,-1,0,1,-1,-1,-1,-1,1,-1,-1,1,-1,-1,0,0,0,-1,1,-1,1,-1,1,0,1,1,0,1,1,-1,-1,-3.68805
+Female,0 - 10k,140 - 150,Yes,They complement each other,Rarely,"Yes, I have both",No,Never,No,-1,-1,0,-1,-1,-2,-2,-1,0,0,-1,-2,0,1,0,-1,0,1,1,-1,0,-1,1,0,2,0,0,1,-2,0,1,-1,-15.2588
+Male,0 - 10k,170 - 175,No,They conflict,Rarely,"Yes, I have both",At least once a month,Rarely,Yes,1,1,1,1,-1,-1,1,1,-1,1,1,-1,1,-1,-1,1,-1,1,-1,1,-1,1,-1,0,-1,1,-1,-1,1,0,-1,-1,-10.874
+Female,0 - 10k,155 - 160,Yes,They are separate,Sometimes,"Yes, I have both",At least once a week,Sometimes,No,-2,0,1,0,-2,1,1,-1,0,1,-1,1,-1,0,0,-2,1,1,1,-2,0,-2,0,1,0,0,0,2,-2,1,2,0,-16.902
+Female,120k - 150k,140 - 150,Yes,They are separate,Rarely,"Yes, I have family",At least once a month,Always,Yes,-1,-2,1,0,2,0,0,-1,-2,1,-1,1,-2,2,0,-2,0,1,2,-1,2,-2,1,0,2,0,1,1,-1,1,1,-2,4.06675
+Male,0 - 10k,170 - 175,Yes,They are separate,Always,"Yes, I have both",At least once a week,Sometimes,Yes,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,-1,-5.48955
+Male,120k - 150k,185 - 190,Yes,They complement each other,Never,"Yes, I have both",More than three times a week,Always,Yes,-1,-2,2,-2,-2,1,-1,-1,0,0,-1,-2,-1,1,0,1,-1,1,1,-1,1,-1,2,2,1,-2,1,1,-1,0,1,-2,2.08777
+Male,0 - 10k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have both",No,Never,Yes,0,0,0,1,-2,-2,1,-2,0,-2,-1,2,-2,-2,1,0,-2,0,-2,0,0,0,1,0,-2,1,1,-1,-2,0,0,1,-14.6789
+Female,0 - 10k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Never,Yes,-1,-2,1,-1,2,-2,-2,-1,0,1,-1,-2,1,0,0,0,-2,1,0,2,0,-2,2,1,0,1,-2,0,0,0,1,0,-30.6934
+Female,10k - 15k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",More than three times a week,Rarely,Yes,0,1,1,-2,-2,-2,1,-2,0,1,-2,1,-2,0,-1,-2,-2,1,0,0,-2,-2,-2,-2,0,0,0,0,-2,0,-2,0,-9.05287
+Female,15k - 20k,155 - 160,Yes,They are separate,Rarely,"Yes, I have friends",At least once a week,Sometimes,Yes,-2,-2,1,-2,0,0,-2,-2,0,1,0,-2,0,-2,0,0,0,0,0,1,0,2,1,1,0,0,-2,0,1,1,0,-2,7.35381
+Female,200k above,160 - 165,Yes,They complement each other,Never,"Yes, I have family",At least once a month,Always,Yes,-1,-1,1,0,0,2,0,-1,0,2,-2,1,-1,1,0,-1,0,1,2,1,1,0,1,2,1,-1,1,0,0,1,1,-2,13.4104
+Male,120k - 150k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Sometimes,Yes,0,0,1,-1,0,-1,2,0,0,0,-2,-2,-2,0,1,0,-2,1,-2,0,0,0,0,0,0,1,0,0,-2,0,-2,1,-15.2027
+Male,200k above,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Rarely,Yes,1,-2,1,1,-2,2,0,-2,2,2,0,0,0,2,-2,0,-2,1,1,-1,1,0,2,1,0,-1,2,2,-1,2,2,-2,17.0616
+Male,15k - 20k,160 - 165,Yes,They conflict,Always,"Yes, I have both",At least once a week,Never,Yes,-1,-1,1,1,0,2,-2,-1,1,0,-1,-2,-2,0,1,-2,1,2,0,-2,1,-1,1,1,1,-1,1,1,-2,2,2,-1,18.9522
+Female,10k - 15k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have friends",At least once a month,Sometimes,Yes,-1,-1,1,0,0,0,0,-1,1,1,0,-1,0,0,0,-1,1,1,1,0,0,0,0,0,0,-2,0,-1,0,1,0,-1,-2.48409
+Male,0 - 10k,165 - 170,Yes,They are separate,Rarely,"Yes, I have both",No,Rarely,Yes,-2,0,0,0,0,-1,-1,-2,0,0,-1,1,-2,-2,2,0,0,0,1,1,1,-2,1,1,0,0,0,1,-1,0,-2,0,-21.6309
+Male,120k - 150k,170 - 175,Yes,They conflict,Never,"Yes, I have both",More than three times a week,Always,Yes,-2,-1,1,1,-2,1,2,-1,0,2,-1,1,-2,0,1,-2,-1,1,1,-1,0,-1,1,-2,0,-1,1,1,-1,1,-2,0,14.2186
+Female,10k - 15k,140 - 150,Yes,They conflict,Sometimes,"Yes, I have both",Rarely,Always,No,0,-2,-2,-1,-2,0,0,-1,0,1,0,-2,0,1,0,-1,0,0,-2,0,-1,0,-2,-2,-2,0,1,-2,0,0,1,1,-14.4121
+Female,150k - 200k,180 - 185,Yes,They conflict,Never,"Yes, I have both",Rarely,Rarely,Yes,1,0,1,1,-1,1,-2,1,1,1,0,1,-1,0,0,1,1,1,1,-2,0,-2,0,1,0,-1,0,0,0,2,1,1,5.74325
+Female,0 - 10k,150 - 155,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Always,Yes,1,1,0,0,0,0,-1,0,1,1,0,1,-1,1,1,0,0,1,1,1,1,-1,1,1,1,1,0,-1,-1,0,1,0,-13.2523
+Male,0 - 10k,180 - 185,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Never,Yes,-2,0,1,2,-2,1,1,-2,1,1,-2,-2,-1,0,0,0,0,1,-2,0,-2,-2,1,0,0,0,-2,0,0,1,-2,1,0.430567
+Female,0 - 10k,160 - 165,Yes,They are separate,Sometimes,"Yes, I have both",At least once a week,Rarely,Yes,-1,-1,1,-2,0,1,0,-1,1,0,0,-2,-2,2,2,-2,1,0,1,-1,2,-2,2,1,0,-2,2,1,-1,1,-2,-1,-13.0665
+Female,120k - 150k,165 - 170,Yes,They are separate,Always,"Yes, I have family",More than three times a week,Always,Yes,-2,1,2,0,0,1,1,-1,-1,0,-2,-1,-2,-2,1,1,-2,0,-1,-1,-2,-1,-2,0,0,-2,0,1,-2,0,-2,-1,-5.05016
+Male,150k - 200k,170 - 175,Yes,They are separate,Sometimes,"Yes, I have both",Rarely,Always,Yes,-2,-2,1,-2,0,1,-2,-2,0,0,0,0,1,-2,-2,1,1,2,0,0,1,-1,-2,1,-2,0,2,0,-1,1,-2,0,9.74698
+Male,0 - 10k,170 - 175,Yes,They complement each other,Rarely,"Yes, I have both",At least once a month,Always,No,1,-2,0,0,-1,0,0,-1,-1,0,0,1,1,2,-2,-2,-2,1,0,0,-1,-1,0,0,0,1,0,1,1,0,1,1,-8.01727
+Male,120k - 150k,180 - 185,Yes,They are separate,Never,"Yes, I have both",More than three times a week,Sometimes,Yes,1,2,1,-1,-2,0,0,1,1,1,-2,-1,1,0,-1,0,-1,0,0,-2,-2,0,-1,-1,-2,2,0,0,1,1,0,-2,-7.40662
+Male,120k - 150k,170 - 175,Yes,They conflict,Sometimes,"Yes, I have both",More than three times a week,Always,Yes,-2,-1,-2,1,0,2,0,-1,1,1,-2,-2,-1,1,1,-1,1,2,1,0,1,-2,1,1,-2,0,2,-2,-2,2,1,1,10.5027
+Male,80k - 120k,180 - 185,Yes,They complement each other,Never,"Yes, I have both",More than three times a week,Always,Yes,1,0,2,1,-2,1,0,-1,1,1,1,0,-1,2,0,1,0,1,-2,0,1,-1,1,0,0,0,0,0,-2,2,1,0,21.0908
+Male,150k - 200k,175 - 180,Yes,They are separate,Never,"Yes, I have both",At least once a week,Rarely,Yes,-1,-2,1,0,1,1,-2,-1,1,0,-2,0,-2,0,0,-2,2,2,0,-2,1,-2,0,1,0,0,2,0,-1,2,0,-1,8.23605
+Female,150k - 200k,170 - 175,Yes,They are separate,Never,"Yes, I have family",More than three times a week,Sometimes,Yes,-1,-1,1,2,0,1,-2,-2,1,1,0,0,0,1,-2,0,2,1,2,0,2,-1,0,0,1,-2,0,0,-2,2,0,-1,12.4711
+Male,0 - 10k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have both",At least once a month,Never,Yes,0,-2,-2,0,1,1,-1,-2,0,1,0,-2,0,2,-1,-2,0,1,1,0,0,-1,0,0,1,0,0,1,-2,0,2,-1,-10.0849
+Male,10k - 15k,165 - 170,Yes,They are separate,Never,"Yes, I have both",More than three times a week,Sometimes,Yes,0,1,1,0,0,-2,2,0,0,2,-2,0,-2,0,-1,0,0,1,0,-2,0,0,-2,0,0,2,0,1,0,0,0,0,-9.17942
+Female,200k above,150 - 155,Yes,They complement each other,Rarely,"Yes, I have family",No,Sometimes,Yes,-1,-1,0,-2,0,-2,-2,-1,1,-2,0,-2,-2,0,0,-1,1,1,0,-1,-2,0,2,1,1,-1,0,-2,-1,1,2,-1,14.3998
+Female,0 - 10k,140 - 150,Yes,They complement each other,Sometimes,"Yes, I have both",Rarely,Sometimes,Yes,-1,-1,1,-1,-2,1,-1,-1,1,0,-2,0,0,0,1,-1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,-4.78044
+Male,120k - 150k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Rarely,Yes,-1,-1,1,0,1,-2,-1,-1,-2,-2,-1,0,0,0,-2,-2,-2,2,0,0,0,0,0,1,0,-2,-2,-2,0,1,-2,-2,-1.20127
+Female,150k - 200k,155 - 160,Yes,They are separate,Rarely,"Yes, I have both",At least once a week,Sometimes,Yes,-2,-1,2,1,-2,0,1,-1,2,-2,-1,0,-1,0,0,-1,1,0,0,-1,-2,-2,1,0,1,0,0,0,-2,1,0,0,6.29495
+Female,0 - 10k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",More than three times a week,Sometimes,Yes,1,1,1,2,-2,-2,-1,0,0,1,-2,0,-2,-2,1,1,0,0,0,-2,0,-2,0,0,0,2,0,0,1,0,0,-2,-35.6835
+Male,50k - 80k,165 - 170,No,They conflict,Rarely,"Yes, I have family",At least once a week,Sometimes,Yes,1,0,1,0,-1,1,0,1,0,1,0,2,1,2,0,0,-2,1,1,1,-1,-1,0,1,0,0,-2,1,1,-1,2,-2,12.957
+Male,150k - 200k,170 - 175,Yes,They complement each other,Sometimes,No,At least once a month,Never,Yes,0,0,0,0,-2,0,1,0,2,-2,-2,0,0,-2,2,0,0,1,0,-2,1,-1,2,1,-1,0,0,0,-2,-2,2,1,1.7493
+Female,120k - 150k,165 - 170,Yes,They conflict,Sometimes,"Yes, I have both",More than three times a week,Sometimes,Yes,0,1,1,-2,0,1,0,-2,2,1,-1,-2,-1,0,0,0,0,2,0,0,-2,-2,1,1,0,-2,1,0,-2,2,0,-1,2.47063
+Male,10k - 15k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",Rarely,Sometimes,No,0,0,1,2,-2,1,0,-2,1,2,-1,-2,0,0,0,-1,1,1,2,2,-2,0,0,0,1,0,1,-2,1,1,2,-2,-5.48915
+Male,0 - 10k,160 - 165,No,They complement each other,Sometimes,"Yes, I have family",Rarely,Sometimes,Yes,1,1,0,-2,0,-2,0,1,0,2,-2,0,1,0,0,-2,0,0,0,1,-1,-1,0,-2,-2,0,1,-2,1,0,2,1,-20.5855
+Male,120k - 150k,175 - 180,Yes,They conflict,Rarely,"Yes, I have both",No,Always,No,0,1,2,-1,-2,-2,2,0,-1,0,1,0,-2,-2,1,2,-2,1,-2,2,0,-2,-2,-2,0,1,-2,0,0,-2,-2,1,-6.00913
+Female,120k - 150k,160 - 165,Yes,They conflict,Sometimes,No,More than three times a week,Always,No,0,0,2,-2,1,-2,0,-1,0,0,0,0,-2,0,2,0,-2,1,1,0,1,-1,2,0,1,0,0,0,0,0,1,0,-4.75039
+Male,0 - 10k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Rarely,Yes,0,0,1,0,0,1,2,-1,1,2,1,2,1,1,1,-2,0,0,1,2,1,-1,1,0,1,1,2,1,-1,0,0,2,-5.54091
+Female,200k above,150 - 155,Yes,They are separate,Sometimes,"Yes, I have family",At least once a month,Sometimes,Yes,2,-2,-2,-2,-1,-2,1,-2,-2,0,2,-2,0,0,-2,0,0,1,1,0,-1,1,-2,-1,1,0,1,0,-2,1,0,1,0.810463
+Other,0 - 10k,175 - 180,Yes,They complement each other,Always,"Yes, I have both",Rarely,Never,Yes,0,2,0,0,1,-2,0,2,-2,0,-2,1,0,-1,1,-2,-2,1,0,-1,-2,0,-2,0,0,0,0,1,-1,-2,0,-2,-20.4785
+Male,80k - 120k,160 - 165,Yes,They complement each other,Always,"Yes, I have both",More than three times a week,Rarely,Yes,-1,-1,1,2,1,0,1,-2,1,2,-1,0,0,0,-2,0,0,2,-2,-2,0,0,0,1,0,-2,1,2,-2,1,0,-1,40.5404
+Female,150k - 200k,160 - 165,Yes,They conflict,Rarely,"Yes, I have both",Rarely,Rarely,Yes,-2,-2,0,0,-2,0,-2,0,1,1,0,0,1,-1,0,0,1,0,0,0,-2,1,0,1,-1,-2,0,0,1,1,0,1,-0.271924
+Female,20k - 50k,155 - 160,Yes,They are separate,Sometimes,"Yes, I have family",Rarely,Sometimes,Yes,0,-1,0,0,1,0,-2,-2,-2,1,-2,2,-2,0,0,-2,-2,0,0,2,0,-1,-2,0,0,1,0,0,-1,-2,1,0,17.31
+Male,150k - 200k,150 - 155,Yes,They complement each other,Sometimes,"Yes, I have both",More than three times a week,Never,No,-2,-2,-2,-2,-1,-1,1,-2,-2,-1,-1,-2,0,-1,-2,-1,0,0,-1,2,-2,1,1,0,-1,1,-2,-2,0,0,-2,1,-4.38453
+Male,120k - 150k,175 - 180,Yes,They are separate,Never,"Yes, I have both",At least once a week,Rarely,Yes,-2,-2,2,-2,2,1,-2,0,1,2,0,0,2,-2,1,-1,0,0,1,-1,0,1,0,1,1,-1,1,1,-2,2,0,-1,4.15996
+Female,15k - 20k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Sometimes,Yes,0,0,0,0,0,-2,0,-1,0,0,-1,0,0,0,-2,-2,-2,1,0,0,1,-1,0,0,1,-2,0,0,-1,1,0,-2,10.3349
+Female,10k - 15k,160 - 165,Yes,They complement each other,Never,No,At least once a month,Never,Yes,-2,-2,1,1,0,2,-2,-2,2,2,1,1,-2,2,1,-1,2,1,2,-2,2,-2,1,0,2,-2,0,2,-2,2,2,0,7.05406
+Female,80k - 120k,155 - 160,Yes,They conflict,Rarely,No,No,Never,No,-2,-2,0,-1,-2,-1,0,0,-2,1,0,-1,1,-1,0,-2,0,1,-2,0,0,0,0,0,-2,0,1,0,0,-2,0,-2,23.8958
+Female,0 - 10k,160 - 165,Yes,They complement each other,Always,"Yes, I have both",More than three times a week,Never,Yes,-1,0,0,1,0,1,-2,-1,1,0,0,0,-2,-2,-2,1,0,2,-1,-1,1,-2,0,1,0,1,1,-2,0,1,0,0,-20.6935
+Male,0 - 10k,165 - 170,Yes,They conflict,Rarely,"Yes, I have both",At least once a month,Never,Yes,0,0,2,0,1,1,0,-2,1,1,1,2,2,0,1,-2,-2,2,1,1,1,-1,1,1,1,1,2,2,-1,1,-2,-2,-15.9891
+Female,10k - 15k,155 - 160,Yes,They conflict,Never,"Yes, I have family",At least once a month,Rarely,No,-1,-1,1,2,0,-2,-1,-1,1,2,-1,0,-2,1,1,-2,2,2,1,-1,1,-1,1,2,2,-1,1,2,-1,2,0,-1,1.97535
+Male,0 - 10k,140 - 150,No,They conflict,Never,"Yes, I have family",More than three times a week,Sometimes,No,1,1,1,0,0,-2,2,1,0,1,1,1,1,0,2,0,-2,1,1,2,0,-2,0,0,0,2,0,1,0,-1,-2,0,-14.7238
+Male,80k - 120k,175 - 180,Yes,They complement each other,Rarely,"Yes, I have family",Rarely,Sometimes,Yes,-2,0,1,0,0,1,0,0,2,1,-2,0,-2,-2,0,0,-2,2,0,0,0,1,1,0,-2,-1,2,2,-2,2,0,0,18.3337
+Female,0 - 10k,165 - 170,Yes,They are separate,Sometimes,"Yes, I have both",At least once a week,Rarely,Yes,1,1,2,0,-2,-1,0,0,0,-1,-2,-2,1,-1,1,0,-1,1,-2,0,0,0,1,0,0,1,0,-2,-2,1,-2,2,-36.1261
+Female,150k - 200k,170 - 175,Yes,They are separate,Never,"Yes, I have both",More than three times a week,Rarely,No,-2,-2,2,0,-2,-2,0,-1,1,1,-2,2,-2,2,1,-1,0,2,1,-1,1,-2,2,1,0,0,2,1,-2,1,0,0,1.60582
+Male,200k above,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have both",No,Rarely,Yes,1,2,0,-1,2,0,0,1,1,1,0,-2,0,0,0,-1,0,0,0,2,1,-2,1,0,0,-2,2,0,-2,1,0,0,-5.25475
+Male,150k - 200k,175 - 180,Yes,They complement each other,Never,"Yes, I have both",At least once a month,Rarely,No,0,-2,1,0,1,1,1,-1,0,1,-1,0,0,1,1,0,-2,0,1,0,0,-2,0,0,0,-2,0,0,-2,1,1,0,0.918389
+Female,10k - 15k,170 - 175,Yes,They complement each other,Never,"Yes, I have family",More than three times a week,Always,Yes,1,1,1,0,1,1,0,0,-1,0,-2,-2,0,1,0,2,1,1,-2,0,0,-2,-2,1,0,-2,0,1,-2,1,0,0,-3.83186
+Male,15k - 20k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Always,Yes,0,0,1,0,0,1,0,-2,2,1,0,0,-1,1,0,-1,-2,0,1,-2,0,-1,1,0,0,0,0,-1,1,1,1,-2,19.9323
+Male,0 - 10k,190 above,Yes,They are separate,Sometimes,"Yes, I have both",No,Rarely,No,1,1,1,-1,1,-1,-1,0,0,0,-2,2,2,2,0,1,-1,1,0,1,0,0,-2,0,1,2,-2,-2,-2,-1,0,0,-18.905
+Female,0 - 10k,170 - 175,Yes,They complement each other,Rarely,"Yes, I have family",At least once a week,Always,Yes,-1,-1,0,-1,-2,-2,-1,-1,-1,0,-1,-2,0,0,0,-1,0,1,1,-1,0,-1,-2,0,-2,-2,0,-2,0,1,1,-2,-2.00679
+Male,0 - 10k,160 - 165,Yes,They complement each other,Rarely,No,More than three times a week,Never,Yes,-2,1,1,-2,-2,1,0,0,0,1,-2,1,1,0,1,-1,-2,0,0,-2,0,0,0,0,-2,1,-2,-2,-2,0,0,1,-32.1651
+Female,150k - 200k,150 - 155,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Rarely,Yes,1,0,1,0,1,-2,2,1,0,1,-2,0,-2,0,0,0,1,1,2,-2,0,-1,0,1,0,-2,0,0,-1,0,0,0,-8.45662
+Male,50k - 80k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Rarely,No,-2,0,1,0,2,-2,1,-2,0,2,1,0,1,1,0,1,-2,2,1,0,1,-1,1,-2,1,1,0,0,-2,-2,1,2,19.0351
+Male,50k - 80k,175 - 180,Yes,They are separate,Never,"Yes, I have family",No,Sometimes,No,1,0,0,2,-2,0,0,0,-2,1,-1,0,0,2,-1,1,-1,0,-2,0,-2,1,-1,1,1,2,-1,2,0,0,-1,0,12.0014
+Male,120k - 150k,170 - 175,Yes,They complement each other,Never,No,At least once a week,Always,Yes,-1,0,2,2,2,1,-2,-1,0,2,-1,1,-2,-2,0,-2,-2,1,0,0,2,-1,2,1,1,1,0,2,-1,0,0,-1,10.6599
+Male,10k - 15k,185 - 190,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Sometimes,Yes,1,1,1,1,0,0,1,1,2,0,-2,0,0,1,1,-2,1,0,1,0,0,-1,1,0,2,-1,1,1,1,1,0,-1,-7.22549
+Male,0 - 10k,160 - 165,No,They complement each other,Rarely,"Yes, I have family",At least once a week,Rarely,Yes,0,1,1,-1,0,0,0,0,-2,2,0,-2,1,0,-2,-1,-1,1,0,1,-2,-2,0,0,-2,1,0,2,1,1,-2,0,-32.1658
+Other,15k - 20k,175 - 180,Yes,They complement each other,Never,"Yes, I have both",At least once a week,Always,Yes,0,1,0,1,1,0,2,1,-2,1,0,0,1,0,1,1,-2,0,1,1,1,0,0,0,0,2,-2,1,-2,-2,0,0,-9.58352
+Female,0 - 10k,150 - 155,Yes,They complement each other,Rarely,"Yes, I have family",At least once a month,Sometimes,Yes,-1,-2,1,0,-1,0,0,-2,0,1,-2,0,0,0,-2,1,-1,0,-2,0,-2,1,0,1,-2,2,-2,-2,1,0,0,1,-43.9638
+Male,200k above,175 - 180,Yes,They are separate,Rarely,"Yes, I have both",No,Rarely,Yes,-1,-2,2,0,2,1,0,-2,0,1,-1,0,0,1,0,-2,0,2,-2,-2,2,-1,0,-2,2,-2,1,0,-1,1,1,-1,11.0849
+Female,20k - 50k,160 - 165,Yes,They complement each other,Never,"Yes, I have family",More than three times a week,Sometimes,Yes,-2,-1,2,2,1,1,0,-2,2,2,-2,1,-1,1,0,-1,-2,2,-2,-1,0,0,1,1,0,-1,1,2,-2,2,1,0,11.6972
+Female,20k - 50k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Sometimes,Yes,-2,-1,0,2,1,1,-1,-2,1,1,-2,0,-1,1,0,-2,1,2,1,-1,1,0,1,0,0,-1,2,1,-1,1,1,0,5.17988
+Male,0 - 10k,175 - 180,Yes,They are separate,Always,"Yes, I have both",Rarely,Sometimes,Yes,2,2,1,0,0,1,0,2,0,0,-2,0,2,-1,1,1,-1,-1,-1,1,1,1,1,0,-1,0,-1,2,-1,0,-2,2,-24.2639
+Male,0 - 10k,190 above,No,They complement each other,Sometimes,"Yes, I have both",No,Always,Yes,-2,-1,0,2,-2,0,-2,-1,0,0,-2,-2,-1,0,2,0,1,0,0,-2,-2,0,-2,0,0,-1,0,-2,-2,0,0,-2,-12.7681
+Female,80k - 120k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Always,Yes,0,0,1,0,0,1,-1,-2,1,2,0,0,1,0,1,1,1,2,0,1,1,-1,1,1,0,-1,2,1,2,2,1,0,34.8128
+Female,200k above,170 - 175,Yes,They are separate,Always,"Yes, I have both",At least once a month,Never,No,0,0,0,1,0,1,0,0,1,2,0,0,-2,2,0,0,0,2,1,0,2,-1,2,0,-2,0,0,-2,1,0,1,-2,2.01044
+Female,0 - 10k,160 - 165,Yes,They conflict,Always,"Yes, I have both",More than three times a week,Sometimes,Yes,0,-1,1,-1,1,1,-1,-1,0,0,0,-1,-1,1,1,-1,0,1,1,-1,0,-1,2,1,1,-1,1,1,-1,1,1,-1,-4.25632
+Female,20k - 50k,150 - 155,Yes,They conflict,Rarely,"Yes, I have both",At least once a month,Always,No,2,1,0,-1,0,0,0,-2,-2,0,0,1,-1,2,0,1,-2,1,0,0,-2,0,-2,0,1,-2,-2,1,1,0,2,1,14.405
+Female,150k - 200k,170 - 175,Yes,They are separate,Never,"Yes, I have both",At least once a week,Always,Yes,2,2,1,0,0,-2,1,2,-2,2,0,0,0,0,1,1,-2,0,0,0,0,0,-2,2,2,0,1,2,0,0,-2,-1,-10.0747
+Male,150k - 200k,175 - 180,Yes,They are separate,Sometimes,"Yes, I have both",No,Always,No,1,0,0,0,0,-2,-2,-2,-2,-2,-1,-1,-2,0,-2,1,-1,0,-2,-1,1,-1,0,1,0,1,0,-2,-1,0,0,-1,-3.46355
+Male,0 - 10k,160 - 165,Yes,They are separate,Rarely,"Yes, I have both",At least once a week,Rarely,Yes,-2,0,2,-2,1,1,1,0,1,1,-1,1,-1,-2,0,-2,-1,-1,-1,-1,0,-2,1,1,-2,-2,0,0,0,0,-2,-1,-25.0814
+Male,10k - 15k,155 - 160,Yes,They complement each other,Always,"Yes, I have friends",More than three times a week,Never,No,1,2,1,2,0,0,0,0,0,1,1,-2,0,1,-2,1,0,2,1,0,-2,0,0,0,1,0,-1,0,2,0,-2,1,-15.884
+Male,150k - 200k,170 - 175,Yes,They complement each other,Never,"Yes, I have both",More than three times a week,Sometimes,Yes,-2,0,1,2,1,2,0,0,2,1,-1,1,1,1,2,-1,0,1,-2,0,0,-1,2,2,-2,-2,1,1,0,1,0,0,-4.79073
+Female,120k - 150k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Rarely,No,-2,-2,1,-1,0,0,0,0,1,0,-1,0,-1,-2,-2,-2,1,0,1,0,1,0,1,0,1,0,0,-2,-2,0,1,-1,-1.97019
+Male,0 - 10k,165 - 170,Yes,They are separate,Sometimes,No,More than three times a week,Never,Yes,0,0,2,0,-1,1,-2,-1,1,1,-1,0,0,1,2,0,0,1,1,0,0,-2,0,0,0,1,1,0,-1,1,0,2,-19.9482
+Female,15k - 20k,150 - 155,Yes,They complement each other,Sometimes,"Yes, I have both",More than three times a week,Always,Yes,-2,-2,0,-2,1,1,0,-1,0,1,1,-2,-2,0,0,0,0,1,1,-1,1,-1,0,0,0,0,-2,-2,-1,1,1,-2,9.55654
+Male,0 - 10k,175 - 180,Yes,They are separate,Never,"Yes, I have both",More than three times a week,Rarely,Yes,1,2,1,-1,1,1,0,0,1,0,-2,0,2,0,0,-2,-1,1,0,1,1,0,1,1,0,0,0,0,-2,1,0,-2,-15.8388
+Male,200k above,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Rarely,Yes,-2,-2,0,0,-1,0,0,0,2,1,-2,-1,1,0,1,-1,0,0,1,0,0,-2,0,0,0,0,1,-1,1,0,1,0,-1.4319
+Female,200k above,155 - 160,No,They complement each other,Rarely,"Yes, I have both",No,Never,Yes,0,-2,1,0,0,1,2,1,1,0,-2,-1,1,0,-2,-1,-2,1,0,0,0,1,0,1,1,1,0,1,2,0,0,-2,-3.2667
+Male,15k - 20k,175 - 180,Yes,They complement each other,Never,"Yes, I have both",Rarely,Always,Yes,0,1,2,1,1,1,-2,1,1,2,1,0,0,1,0,1,-2,1,-2,1,0,0,0,2,-2,2,1,2,1,1,-2,-2,-0.14196
+Male,15k - 20k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",At least once a month,Rarely,Yes,1,1,0,1,2,-2,0,0,0,1,-2,0,2,0,-2,0,-2,-1,-2,1,-2,2,-2,0,1,0,-1,1,0,-2,-2,-2,-7.46102
+Female,150k - 200k,160 - 165,Yes,They are separate,Always,"Yes, I have family",More than three times a week,Sometimes,Yes,1,2,2,-1,1,-1,-2,1,-2,1,1,0,2,1,0,1,-1,1,1,1,0,1,0,-2,1,0,-2,1,0,0,0,-1,2.58146
+Female,0 - 10k,160 - 165,Yes,They complement each other,Always,"Yes, I have friends",Rarely,Always,Yes,-1,1,1,-1,0,-1,1,1,0,0,-1,1,0,0,0,0,-1,2,1,0,0,0,1,1,0,0,0,1,0,0,-1,0,-11.5928
+Male,150k - 200k,185 - 190,Yes,They complement each other,Never,"Yes, I have both",More than three times a week,Rarely,Yes,-2,-2,1,1,0,0,1,-2,-2,1,-1,0,-1,-2,1,0,0,0,1,-2,0,0,0,1,-2,0,0,0,1,0,0,0,-6.91643
+Female,0 - 10k,170 - 175,Yes,They conflict,Sometimes,"Yes, I have both",At least once a month,Sometimes,No,1,1,0,0,0,0,1,1,0,0,1,1,1,0,-1,2,-1,1,-1,1,0,1,0,0,0,1,0,0,1,-1,0,1,-10.9295
+Male,200k above,175 - 180,Yes,They are separate,Rarely,"Yes, I have both",At least once a week,Rarely,Yes,-1,-1,2,2,-2,1,-2,-1,0,1,-2,-2,-2,0,2,-2,2,1,0,-1,1,-2,1,1,-2,-2,1,2,-1,2,0,1,16.6027
+Male,120k - 150k,180 - 185,Yes,They complement each other,Rarely,"Yes, I have both",Rarely,Sometimes,Yes,-1,-2,0,0,1,-2,-1,-2,2,0,-2,1,2,0,0,-2,0,1,-2,1,0,1,1,1,-1,0,-2,-2,-2,0,0,0,1.60644
+Male,200k above,160 - 165,Yes,They are separate,Sometimes,"Yes, I have both",At least once a month,Sometimes,Yes,-1,-2,1,1,0,-2,0,-1,0,1,-2,-2,0,1,-2,-1,-2,1,-2,-2,0,0,1,1,0,0,-2,-2,-2,0,1,0,2.67485
+Other,10k - 15k,180 - 185,Yes,They complement each other,Sometimes,No,More than three times a week,Sometimes,Yes,1,1,0,1,1,-2,2,0,0,-1,2,1,-1,1,0,-2,-2,0,-2,1,1,-2,1,0,0,0,-2,-2,-1,-2,1,0,-5.33716
+Male,0 - 10k,180 - 185,Yes,They complement each other,Always,"Yes, I have both",At least once a week,Always,Yes,-1,-1,2,0,1,1,-1,-1,2,1,-1,1,0,1,1,-1,-1,2,1,0,1,-1,1,0,0,1,2,1,-1,1,0,1,0.322609
+Male,0 - 10k,180 - 185,Yes,They are separate,Sometimes,"Yes, I have both",At least once a week,Always,Yes,1,0,1,1,0,1,0,-1,-1,1,-1,-1,-1,1,0,0,0,1,1,0,1,-1,1,1,1,1,1,1,-1,1,1,0,-3.3166
+Female,150k - 200k,155 - 160,Yes,They complement each other,Never,"Yes, I have both",At least once a month,Rarely,Yes,-1,2,2,0,0,0,0,0,2,1,0,-1,-2,1,1,1,-2,1,1,-2,1,-1,0,2,2,0,0,0,-2,1,0,-1,-17.5846
+Male,0 - 10k,155 - 160,Yes,They are separate,Always,No,At least once a month,Rarely,No,2,2,-2,-1,0,0,2,0,-1,0,0,-2,2,-2,0,1,-1,0,-1,1,0,1,-1,0,0,2,-2,-1,1,-2,0,1,-30.2734
+Female,10k - 15k,155 - 160,Yes,They complement each other,Always,"Yes, I have friends",At least once a month,Always,No,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,0,1,1,0,0,1,2,0,0,1,-7.42944
+Female,200k above,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Always,Yes,-2,-2,1,1,2,1,0,-1,0,1,-1,0,0,0,1,-2,-1,1,0,-2,2,0,2,-2,0,1,0,0,-1,0,0,-1,5.55294
+Other,0 - 10k,165 - 170,Yes,They complement each other,Rarely,No,At least once a month,Sometimes,Yes,1,2,-2,-2,0,-2,0,0,-2,-1,-1,1,-2,-2,0,0,-1,2,-2,1,-1,0,-2,-2,0,2,0,1,-2,0,0,1,-34.1951
+Male,0 - 10k,170 - 175,Yes,They conflict,Rarely,"Yes, I have both",At least once a week,Never,No,1,1,0,-2,0,-1,0,-2,0,0,0,0,1,1,0,0,1,1,0,-2,0,-1,1,0,2,1,-1,0,0,0,0,0,-40.1843
+Male,15k - 20k,155 - 160,Yes,They are separate,Never,"Yes, I have family",At least once a week,Rarely,No,0,2,0,-1,0,-2,1,0,-2,1,0,1,1,2,1,0,-2,1,0,2,1,0,2,1,1,1,-2,1,1,0,1,0,-6.2382
+Female,0 - 10k,140 - 150,Yes,They complement each other,Sometimes,"Yes, I have both",Rarely,Sometimes,Yes,-1,-1,1,-1,-2,1,-1,-1,1,0,-2,0,0,0,1,-1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,-4.79009
+Male,120k - 150k,150 - 155,Yes,They are separate,Sometimes,"Yes, I have both",No,Rarely,Yes,-2,-2,0,-1,-2,-2,-2,-1,-1,0,0,-1,0,2,0,-2,0,0,1,1,0,1,0,0,-1,1,0,-2,1,0,0,2,-0.124006
+Female,0 - 10k,165 - 170,Yes,They are separate,Rarely,"Yes, I have family",No,Sometimes,Yes,0,-2,1,1,-1,0,-2,-2,1,0,-2,-1,1,-2,0,0,2,1,1,-2,-2,2,2,0,1,1,-2,-1,1,0,1,0,-25.7969
+Male,0 - 10k,170 - 175,No,They conflict,Always,"Yes, I have friends",Rarely,Always,Yes,1,2,1,2,1,1,-2,0,0,2,-2,2,0,1,2,2,1,2,1,2,0,-1,1,1,2,-2,2,2,0,2,2,-1,-24.8969
+Female,10k - 15k,175 - 180,Yes,They complement each other,Never,No,At least once a month,Always,Yes,0,0,2,2,1,2,2,0,0,2,0,0,-2,1,2,-2,0,1,1,-1,2,-2,1,0,1,-2,0,2,0,0,1,0,-13.6938
+Male,0 - 10k,180 - 185,Yes,They are separate,Sometimes,"Yes, I have family",No,Sometimes,Yes,-1,-1,1,0,0,1,-1,-2,0,0,-1,-1,0,1,0,0,0,1,0,0,0,0,0,1,-1,0,1,-1,1,0,1,0,-0.191506
+Female,120k - 150k,150 - 155,Yes,They complement each other,Rarely,"Yes, I have family",At least once a month,Sometimes,Yes,-2,-1,1,2,2,1,-1,-2,2,2,-1,2,-1,1,-2,-2,2,1,0,-2,0,-2,2,2,1,0,1,0,-2,1,1,-1,1.85639
+Female,0 - 10k,140 - 150,Yes,They conflict,Rarely,"Yes, I have both",No,Always,Yes,-1,-1,2,1,0,2,-2,-1,2,1,-2,-1,-2,0,2,-1,2,0,0,-1,1,-1,2,2,-2,-1,2,0,-2,2,1,-1,4.6917
+Female,15k - 20k,170 - 175,Yes,They are separate,Never,"Yes, I have family",At least once a month,Never,Yes,2,0,0,0,1,-2,0,0,-1,0,1,1,2,0,-1,1,0,2,-2,0,-2,-2,-1,-2,1,0,-1,-2,0,-2,0,-2,-8.28994
+Female,10k - 15k,155 - 160,Yes,They conflict,Sometimes,"Yes, I have both",Rarely,Sometimes,Yes,0,-2,1,-1,-2,0,-2,1,1,1,0,1,0,0,0,-1,-2,1,1,-2,0,0,1,1,0,-2,1,0,-2,0,-2,-2,-8.35058
+Female,10k - 15k,165 - 170,Yes,They complement each other,Never,"Yes, I have family",At least once a month,Never,Yes,-1,-1,1,2,0,0,0,-2,1,1,-1,1,0,2,1,0,0,1,0,-1,1,-2,-2,0,2,-1,1,2,-1,0,0,-1,8.82361
+Male,120k - 150k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have family",More than three times a week,Sometimes,Yes,-2,-1,1,-2,0,-1,-1,0,0,0,-2,0,-2,0,0,-1,0,1,0,-2,0,-1,0,1,-2,-2,2,0,-2,1,-2,0,6.18504
+Male,0 - 10k,180 - 185,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Rarely,Yes,-2,0,-2,-1,-2,0,-2,0,0,0,0,-2,2,0,-2,-1,1,1,0,-2,-2,-1,0,0,-1,0,0,-1,-1,0,1,-2,-12.3167
+Male,150k - 200k,170 - 175,Yes,They complement each other,Always,"Yes, I have friends",No,Always,Yes,1,2,2,-1,-2,1,0,0,-2,0,1,0,1,0,1,0,-1,1,1,0,0,-2,1,2,0,-2,0,2,0,1,1,-1,-0.664145
+Other,80k - 120k,170 - 175,Yes,They complement each other,Rarely,"Yes, I have family",No,Always,No,0,0,-2,-1,0,-2,0,-2,-1,-2,-2,-1,1,0,0,-1,-2,1,0,0,-2,0,-2,-1,-2,1,0,-1,1,0,0,1,24.6529
+Male,150k - 200k,175 - 180,Yes,They are separate,Always,"Yes, I have family",At least once a week,Rarely,Yes,0,0,1,-2,1,0,-2,-2,2,1,-2,-2,2,1,1,-2,1,1,1,1,1,-2,1,-2,1,-2,0,0,0,2,2,2,3.2011
+Female,0 - 10k,165 - 170,Yes,They are separate,Rarely,"Yes, I have both",At least once a week,Rarely,Yes,0,0,1,0,0,0,0,-2,0,0,0,-1,1,-2,0,-2,0,0,-2,0,0,0,0,0,-2,-1,0,0,0,1,-2,-1,-25.5013
+Female,0 - 10k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Never,Yes,1,0,1,-2,2,1,-2,-2,0,1,0,2,-1,-2,-2,-2,-1,1,0,-1,1,-2,0,1,-2,-2,2,1,0,1,0,1,-21.19
+Other,150k - 200k,160 - 165,Yes,They are separate,Sometimes,"Yes, I have family",More than three times a week,Never,Yes,0,-2,0,2,2,0,2,-2,-2,2,-2,1,-1,0,2,-2,-2,0,1,0,0,-2,0,1,1,1,1,1,-2,0,0,-2,-10.7047
+Male,80k - 120k,165 - 170,Yes,They complement each other,Never,"Yes, I have both",Rarely,Always,Yes,-1,-1,2,1,0,-1,-2,-1,1,1,-1,0,-2,0,2,0,2,0,1,-2,1,0,2,1,2,-2,0,0,-2,1,-2,-1,15.4097
+Female,15k - 20k,140 - 150,Yes,They are separate,Sometimes,"Yes, I have family",More than three times a week,Rarely,No,0,0,-1,0,-1,-1,0,-2,-2,-2,0,-2,0,1,0,0,1,2,0,1,0,0,-2,0,-2,2,1,-1,1,1,0,0,-5.16935
+Male,20k - 50k,175 - 180,Yes,They are separate,Sometimes,"Yes, I have family",Rarely,Always,Yes,-2,0,0,1,-2,-2,1,-2,0,-2,0,2,-1,0,1,2,-1,2,0,0,1,-1,-2,0,1,0,1,0,-1,1,0,-1,5.55325
+Male,15k - 20k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Never,No,1,0,0,-1,-2,-2,1,1,0,0,0,0,1,-2,0,1,-2,0,-2,0,-2,0,0,1,0,0,0,0,-2,-2,0,0,-11.6307
+Female,10k - 15k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have family",More than three times a week,Never,Yes,-2,-2,1,0,0,0,-2,0,0,1,-1,1,0,1,1,1,0,2,1,0,0,-1,-2,0,2,0,1,1,2,0,2,-2,-5.3854
+Female,0 - 10k,150 - 155,Yes,They are separate,Always,"Yes, I have friends",At least once a week,Always,Yes,-2,-2,1,1,1,2,0,-2,1,1,0,0,0,1,2,-2,0,1,1,-1,1,-1,1,1,1,-1,1,0,-2,1,0,-1,-5.7324
+Male,0 - 10k,170 - 175,Yes,They complement each other,Rarely,No,At least once a month,Rarely,Yes,0,2,2,-2,0,1,0,-2,0,1,0,0,-2,2,0,-2,-2,0,0,-2,1,-1,2,0,1,0,-2,0,0,-2,2,0,-7.92175
+Female,0 - 10k,155 - 160,Yes,They complement each other,Sometimes,No,At least once a week,Never,No,0,1,2,-1,0,-1,0,-2,-2,0,2,-2,0,-1,0,1,-1,0,0,1,0,0,1,0,0,0,-1,-2,-2,-2,-2,2,-21.8672
+Female,0 - 10k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have both",More than three times a week,Sometimes,Yes,0,-1,1,-2,-2,0,1,0,-2,0,-2,0,-2,0,2,-2,0,2,0,1,1,0,0,1,0,-2,1,-2,-2,1,1,0,-12.216
+Male,80k - 120k,175 - 180,Yes,They are separate,Sometimes,"Yes, I have family",At least once a month,Sometimes,Yes,-2,-2,1,2,0,-2,0,0,0,1,-1,-1,1,-2,0,1,0,0,-1,-1,-2,1,0,1,-2,0,0,-2,0,-2,-2,0,15.4786
+Male,200k above,160 - 165,Yes,They are separate,Always,"Yes, I have family",At least once a week,Always,Yes,-2,-2,1,-2,0,0,1,-1,0,0,-2,1,1,-2,0,0,0,2,2,-2,0,-1,0,1,1,0,1,2,-1,1,-1,-1,10.8522
+Male,0 - 10k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have both",More than three times a week,Rarely,No,2,2,2,0,-1,-2,0,0,-2,-2,0,-2,-2,0,0,0,-1,1,-1,1,0,-2,0,1,-2,2,-2,-1,0,0,0,1,-8.06227
+Female,10k - 15k,165 - 170,No,They complement each other,Never,"Yes, I have family",More than three times a week,Sometimes,Yes,0,-2,1,0,-2,1,1,0,0,0,0,1,1,-2,0,-1,0,1,1,0,0,-2,-2,1,0,1,0,-2,0,1,2,0,3.03833
+Female,150k - 200k,150 - 155,Yes,They conflict,Rarely,No,More than three times a week,Always,Yes,1,-2,1,1,0,1,0,-1,0,0,1,-2,1,-2,0,0,0,1,0,1,-2,-2,-2,2,0,-2,1,0,-2,2,1,0,-2.12869
+Female,20k - 50k,165 - 170,Yes,They are separate,Never,"Yes, I have family",At least once a week,Sometimes,No,-2,0,1,1,-1,-2,1,-2,1,-1,0,1,-2,2,0,0,0,1,-2,-1,-2,-2,-2,0,0,-2,0,-2,1,1,-2,0,-7.09715
+Female,0 - 10k,160 - 165,Yes,They are separate,Sometimes,"Yes, I have both",Rarely,Always,Yes,-1,-2,-2,0,-1,-1,2,-1,-2,-1,-2,-1,-2,-2,0,-1,1,1,-2,1,0,-2,0,-2,0,2,0,0,1,0,0,2,-10.4138
+Female,50k - 80k,165 - 170,Yes,They complement each other,Always,"Yes, I have family",More than three times a week,Sometimes,Yes,0,0,1,0,-1,0,0,0,0,1,0,-1,0,-2,-1,1,0,1,0,0,0,1,-2,0,-1,-1,-1,-1,0,0,0,0,13.1057
+Female,0 - 10k,165 - 170,Yes,They are separate,Always,"Yes, I have both",More than three times a week,Always,No,0,1,1,-1,-1,0,-1,-1,-1,0,1,0,1,0,0,0,-1,1,0,1,0,-1,0,1,0,1,0,0,0,0,1,1,-11.5928
+Male,150k - 200k,185 - 190,Yes,They complement each other,Rarely,"Yes, I have both",At least once a month,Never,Yes,0,0,2,2,1,1,0,-1,1,1,-2,1,-2,0,0,0,0,1,-2,0,1,-1,2,2,0,-1,0,0,-1,0,0,0,-0.00132377
+Male,0 - 10k,180 - 185,Yes,They complement each other,Sometimes,"Yes, I have both",No,Never,No,-2,-2,1,2,-2,0,-1,0,0,0,-2,0,-1,0,-1,-2,0,1,1,0,1,-2,0,1,1,1,-2,-2,-2,0,1,-1,3.29994
+Male,0 - 10k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Never,No,-2,-2,0,-1,0,-2,0,-1,0,-2,-2,1,-1,1,-2,1,-2,0,0,-2,1,-2,0,-2,0,1,1,-1,0,0,1,1,-2.75554
+Male,0 - 10k,170 - 175,Yes,They are separate,Rarely,"Yes, I have both",No,Always,Yes,0,0,0,0,0,0,0,0,-1,1,-1,0,1,0,-1,0,-1,0,-1,1,-1,0,-1,0,-1,2,0,1,1,0,0,0,-5.56394
+Male,150k - 200k,170 - 175,Yes,They are separate,Never,"Yes, I have family",At least once a month,Rarely,No,-2,-2,2,0,0,-1,-2,-1,0,1,0,1,0,0,1,-1,-2,2,1,-2,1,-1,1,0,1,-2,1,1,-1,0,-2,-1,6.581
+Male,200k above,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Sometimes,Yes,-2,-1,-2,0,1,-2,0,-1,0,0,-1,0,1,0,-2,-1,1,2,-2,2,0,-2,0,0,-2,-2,0,0,2,0,-2,0,6.62474
+Male,200k above,165 - 170,Yes,They conflict,Sometimes,"Yes, I have both",No,Never,Yes,-2,-1,2,1,-2,-2,0,0,2,2,-1,0,-2,0,0,0,0,0,0,0,-2,0,1,2,1,-2,0,1,0,0,0,-2,16.6789
+Male,80k - 120k,165 - 170,Yes,They complement each other,Always,"Yes, I have family",At least once a week,Sometimes,No,0,1,1,0,1,0,1,0,0,2,-2,1,1,2,0,1,-1,0,-1,0,0,-1,1,0,1,0,-1,-1,-1,-1,2,0,27.2294
+Male,120k - 150k,165 - 170,Yes,They complement each other,Sometimes,No,At least once a month,Rarely,No,-1,-2,1,0,0,0,2,0,-2,0,1,1,0,1,1,0,0,1,0,-2,0,-2,0,1,0,-2,-2,1,0,0,1,-2,6.28894
+Female,0 - 10k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Sometimes,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6.3886
+Male,0 - 10k,175 - 180,Yes,They are separate,Never,No,At least once a week,Never,Yes,-2,-1,2,0,0,-2,-2,-1,-2,1,-2,-2,2,-1,1,-2,1,1,1,0,1,-1,-1,0,2,-2,0,1,-1,1,0,-2,3.76291
+Male,0 - 10k,190 above,Yes,They conflict,Sometimes,"Yes, I have both",At least once a month,Never,Yes,0,-2,0,1,-1,0,2,-2,0,0,0,0,-1,1,-2,-2,1,0,0,0,0,-2,0,0,-2,-1,1,0,-2,1,0,-1,0.184982
+Female,120k - 150k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have family",Rarely,Never,Yes,1,1,0,2,0,0,1,0,0,0,1,-1,1,-2,0,0,1,0,-2,1,0,0,-2,1,0,0,0,0,1,1,-1,0,-8.55252
+Male,15k - 20k,160 - 165,Yes,They complement each other,Rarely,No,More than three times a week,Sometimes,Yes,-1,-2,1,0,1,1,-2,-1,0,1,-2,-1,1,-2,0,-2,-2,0,0,-2,0,-2,0,1,-2,0,0,2,-1,0,0,0,2.41046
+Female,150k - 200k,180 - 185,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Rarely,Yes,0,0,1,0,0,-1,0,-2,-1,1,-2,-1,-2,-2,0,1,0,0,0,-2,-2,0,-2,-2,1,0,0,0,-1,-2,0,0,7.49688
+Male,20k - 50k,165 - 170,Yes,They complement each other,Never,No,No,Always,Yes,0,2,2,-2,1,1,-2,-2,2,2,0,1,0,-2,2,1,-2,0,1,-2,1,-1,1,2,1,-2,1,1,-1,1,1,-2,4.68603
+Male,0 - 10k,165 - 170,Yes,They are separate,Always,"Yes, I have family",No,Always,Yes,-2,-1,1,1,1,1,-1,-2,1,2,-2,1,0,0,1,-2,0,0,2,-1,1,0,1,1,2,0,1,1,0,0,1,-1,-0.330466
+Female,10k - 15k,155 - 160,Yes,They complement each other,Never,"Yes, I have family",At least once a week,Rarely,No,1,0,0,1,2,0,-2,1,0,0,0,-2,2,1,0,1,0,1,0,1,1,0,0,1,1,0,0,-2,1,1,1,0,-17.8205
+Male,120k - 150k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Always,Yes,-2,-1,2,0,2,0,-1,-1,0,1,-2,0,-1,1,1,2,1,1,0,0,1,-1,1,2,2,-2,0,-2,-2,0,1,-1,-4.33126
+Male,200k above,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have family",More than three times a week,Never,Yes,-2,0,0,1,-2,-1,0,-2,-2,1,-1,-2,2,0,0,1,-1,0,-2,2,-2,2,-1,-2,0,2,-2,0,2,-2,-2,1,0.0339361
+Male,10k - 15k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Always,Yes,-2,-1,1,-1,-1,0,-2,-1,0,-1,-1,-1,0,0,0,-1,0,1,0,-2,0,-1,0,0,-1,1,0,-2,-2,1,0,1,11.9863
+Male,200k above,170 - 175,Yes,They are separate,Rarely,"Yes, I have both",No,Never,No,-1,0,0,1,0,-2,-1,0,1,1,0,-2,1,0,-1,-2,0,0,0,2,1,-2,-2,-2,1,1,-2,-1,2,0,1,0,3.34571
+Female,120k - 150k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Always,Yes,1,-2,0,1,-2,0,2,-2,0,1,0,0,0,0,0,-1,1,1,2,0,0,-1,0,0,1,0,0,2,0,1,0,1,-0.893596
+Male,50k - 80k,170 - 175,Yes,They conflict,Always,"Yes, I have both",More than three times a week,Always,Yes,0,1,1,0,-2,0,0,-2,1,2,1,0,2,-2,0,2,0,2,0,0,0,0,0,1,-2,0,-2,2,1,1,-2,0,13.2414
+Male,200k above,175 - 180,Yes,They complement each other,Rarely,"Yes, I have both",No,Rarely,No,-2,0,-2,-1,0,-2,0,-1,-2,1,0,-2,-2,1,-2,-2,0,1,-2,1,0,-2,1,0,-2,0,1,0,0,0,1,0,15.2003
+Male,120k - 150k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Never,Yes,0,0,2,0,-2,-2,1,-2,-2,0,1,-2,0,0,1,0,-2,1,0,0,0,-2,0,0,0,-2,1,1,-2,1,0,0,5.22936
+Male,200k above,160 - 165,Yes,They are separate,Sometimes,"Yes, I have both",At least once a week,Never,No,0,-2,0,-2,-1,-2,2,-2,-2,-2,0,0,2,2,-2,0,0,0,1,2,0,1,-2,-2,-2,1,-2,-2,1,-2,0,2,7.46764
+Male,120k - 150k,175 - 180,Yes,They conflict,Never,"Yes, I have both",At least once a month,Never,No,2,1,0,2,1,0,0,1,-1,2,-2,-2,1,1,0,1,-1,0,-2,1,-1,-1,-2,0,0,1,-2,0,1,0,0,0,-3.1074
+Male,80k - 120k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Never,Yes,0,-2,1,-2,1,2,0,-2,1,1,1,0,2,0,0,0,0,1,1,2,0,-2,1,0,0,1,0,2,-2,1,1,-2,33.0618
+Female,150k - 200k,155 - 160,Yes,They are separate,Always,"Yes, I have family",More than three times a week,Always,No,0,-2,0,-1,-2,-2,0,-1,0,0,-2,-1,-1,0,-2,-1,0,1,0,0,1,0,0,0,-2,-2,0,-2,1,2,0,-2,-4.75996
+Female,10k - 15k,160 - 165,Yes,They conflict,Sometimes,"Yes, I have both",At least once a month,Rarely,Yes,-2,0,1,1,-2,0,0,-1,2,1,-2,0,0,0,1,-1,1,0,2,-1,2,-2,1,2,2,-1,2,2,-1,2,0,-1,-5.55643
+Female,0 - 10k,170 - 175,Yes,They are separate,Sometimes,No,At least once a month,Sometimes,No,1,0,2,-2,1,1,0,0,0,-2,1,1,1,-2,0,-2,-2,0,-2,0,0,1,1,1,-2,1,0,1,1,0,0,2,-9.0876
+Female,15k - 20k,160 - 165,Yes,They are separate,Never,"Yes, I have family",More than three times a week,Never,No,0,-2,-2,-2,2,0,-2,-2,-1,0,0,0,1,0,-2,0,-1,1,0,1,0,1,-2,0,0,1,1,0,0,1,0,0,4.60963
+Male,15k - 20k,155 - 160,Yes,They complement each other,Rarely,"Yes, I have both",No,Always,No,1,0,1,-2,0,-2,-2,0,0,0,2,-1,2,2,1,-2,0,2,1,1,0,-2,2,0,0,0,0,0,1,1,1,-2,0.646357
+Male,200k above,165 - 170,Yes,They are separate,Sometimes,"Yes, I have both",No,Sometimes,Yes,-1,-1,0,-2,0,0,-2,-1,1,-1,-1,-2,-1,0,-1,-1,0,0,-1,-1,-2,-1,1,2,-1,1,1,-2,-2,0,1,0,9.12243
+Female,0 - 10k,150 - 155,Yes,They complement each other,Rarely,"Yes, I have both",No,Sometimes,No,-2,1,0,-1,0,-1,0,0,-1,-1,0,-2,1,-2,1,-2,-2,0,0,0,-2,1,-2,-2,-2,1,-2,1,2,-1,0,1,-19.0386
+Female,15k - 20k,155 - 160,Yes,They complement each other,Never,"Yes, I have both",At least once a month,Never,Yes,-1,-1,2,1,2,1,-1,-2,2,2,0,2,0,0,-2,-1,1,1,2,-2,1,-1,0,2,1,-1,1,1,0,1,2,0,21.8873
+Male,10k - 15k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have family",No,Sometimes,Yes,1,0,0,-2,0,-1,0,1,-2,0,-2,1,0,-2,-2,2,-1,1,-2,0,0,1,0,0,-2,0,0,-2,0,-2,-1,-2,-11.2004
+Male,0 - 10k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Sometimes,Yes,-1,-1,1,1,0,1,0,-1,0,1,-1,1,0,1,1,-2,0,2,1,-1,0,0,1,0,1,2,1,1,0,1,0,2,-3.30824
+Male,10k - 15k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have friends",At least once a week,Sometimes,Yes,-1,-1,1,1,0,0,-1,-2,0,1,-2,1,-1,0,1,-2,0,1,0,-1,1,-1,1,1,0,-1,1,1,-1,1,0,-1,-2.79793
+Female,0 - 10k,170 - 175,Yes,They conflict,Sometimes,"Yes, I have both",More than three times a week,Never,No,0,0,1,0,0,-2,-2,0,0,0,-1,1,-1,-2,0,-1,0,1,0,-1,0,-2,-2,1,0,1,0,0,1,1,1,-1,-12.7689
+Male,50k - 80k,165 - 170,Yes,They complement each other,Always,"Yes, I have both",At least once a week,Always,Yes,-1,-1,1,0,0,1,-1,-1,0,1,-1,0,0,2,2,-2,1,1,1,-1,1,-1,0,1,1,0,2,1,-2,2,1,-1,16.7027
+Male,10k - 15k,175 - 180,Yes,They complement each other,Never,"Yes, I have family",At least once a week,Always,Yes,1,2,1,0,2,0,-1,-2,-2,0,0,-1,2,0,0,2,-1,0,0,-2,0,-1,-2,0,-2,-2,-2,0,-2,-2,-2,0,-6.58482
+Male,20k - 50k,180 - 185,Yes,They conflict,Always,"Yes, I have both",At least once a week,Always,Yes,-1,0,1,2,2,1,-1,-1,1,1,-1,-1,0,0,1,0,2,2,1,-2,1,-1,1,2,2,-1,1,-1,-2,2,1,-2,7.63976
+Male,0 - 10k,175 - 180,Yes,They complement each other,Always,"Yes, I have family",No,Always,Yes,1,2,1,0,-2,1,1,0,-2,0,1,0,1,2,1,-1,-2,0,1,2,0,0,1,1,0,1,-2,0,1,-2,0,0,-4.14961
+Female,10k - 15k,155 - 160,Yes,They conflict,Rarely,No,More than three times a week,Always,Yes,-1,0,1,1,0,0,-2,-1,2,1,-2,-2,-2,-1,0,-2,0,1,0,-2,0,-2,1,2,-1,1,1,-2,-2,2,-2,-2,-6.55672
+Female,0 - 10k,170 - 175,Yes,They complement each other,Rarely,"Yes, I have family",More than three times a week,Rarely,Yes,-2,-2,1,1,0,1,-2,-1,0,2,-1,-2,1,0,1,-2,0,1,0,0,1,-2,1,0,1,-2,2,1,-1,1,0,-2,-20.2207
+Female,10k - 15k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",More than three times a week,Sometimes,Yes,-2,-1,1,2,-1,1,0,-2,0,0,0,1,-2,0,2,0,0,2,0,-1,1,-2,0,0,0,0,1,0,-2,0,1,0,-5.21533
+Male,200k above,180 - 185,Yes,They complement each other,Never,"Yes, I have friends",At least once a week,Never,Yes,-1,-1,-2,1,-2,0,-1,-1,-2,0,-1,-1,-2,0,-2,1,0,1,-1,-2,-1,0,-2,-2,-2,0,0,-1,0,0,1,0,9.7
+Male,120k - 150k,185 - 190,Yes,They are separate,Rarely,No,At least once a week,Rarely,Yes,1,2,1,0,0,0,0,0,0,0,1,0,-2,0,1,0,0,1,0,-2,0,0,2,1,0,-2,2,1,-1,1,0,-2,-8.00828
+Female,50k - 80k,155 - 160,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Never,Yes,0,-2,2,0,0,-2,0,0,2,2,-2,-1,0,-2,0,-1,1,1,1,-2,1,-1,1,2,0,-2,0,2,0,0,2,-2,23.1629
+Male,120k - 150k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have both",Rarely,Sometimes,Yes,0,1,0,-2,-1,1,-2,-1,2,1,-2,2,0,2,0,-2,-2,0,0,-2,-1,1,-2,1,-2,2,0,-2,2,0,1,0,3.60723
+Male,0 - 10k,185 - 190,Yes,They complement each other,Never,"Yes, I have both",At least once a month,Rarely,Yes,0,0,2,2,1,1,0,-2,1,2,0,1,0,1,1,-2,2,2,1,-1,1,-1,1,2,2,-1,2,2,-1,1,-2,-2,-13.4623
+Male,200k above,155 - 160,Yes,They complement each other,Never,No,At least once a month,Rarely,Yes,-2,-1,1,2,-2,2,0,-2,2,2,-1,-1,1,2,1,-1,2,2,1,-2,0,0,1,2,1,-2,1,2,0,2,1,-1,13.6898
+Female,50k - 80k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have family",At least once a week,Sometimes,Yes,1,1,2,1,0,1,1,0,1,1,1,-1,1,0,2,-2,0,1,1,0,-1,0,1,2,0,-1,1,0,0,1,0,0,7.85091
+Female,15k - 20k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have family",More than three times a week,Never,No,1,1,0,0,-2,-1,-2,1,0,0,0,1,-2,-1,-1,2,-1,0,-2,1,-2,-1,-2,1,0,-1,-2,-2,2,-2,-2,0,1.12388
+Male,150k - 200k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",At least once a month,Rarely,Yes,-1,-1,2,2,2,2,0,-1,1,1,-1,0,-1,1,1,-1,1,2,1,-2,2,-1,1,2,2,-2,2,2,-1,1,1,-1,9.8023
+Male,200k above,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",Rarely,Always,No,2,1,1,-1,0,-2,-1,-2,-1,0,1,0,1,-1,0,2,-2,1,-1,1,-2,1,-2,1,2,1,0,-2,1,0,0,-2,2.5989
+Male,150k - 200k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Rarely,Yes,2,1,0,-2,-2,-1,2,1,-2,1,0,-1,0,-2,0,0,-2,1,-2,0,-2,0,0,-1,0,1,0,1,2,0,1,2,-14.5055
+Other,20k - 50k,170 - 175,Yes,They are separate,Sometimes,"Yes, I have family",More than three times a week,Never,Yes,-2,-2,1,0,0,0,1,-2,0,0,0,1,1,1,1,-1,0,0,2,-2,0,-2,0,1,1,-1,0,1,0,0,1,0,15.4521
+Male,0 - 10k,175 - 180,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Sometimes,Yes,-2,0,2,0,-2,-2,-2,-2,-2,2,-1,0,1,0,0,1,-1,1,0,1,0,0,1,1,1,2,0,1,1,0,-2,-2,-19.7034
+Male,50k - 80k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a week,Sometimes,Yes,-1,-1,1,0,1,1,0,-2,0,0,-1,0,-1,-2,0,-2,0,2,2,-2,1,-2,2,0,-2,-1,1,0,-1,2,-2,-2,29.3352
+Female,80k - 120k,150 - 155,Yes,They are separate,Rarely,"Yes, I have family",At least once a week,Rarely,Yes,-2,-2,1,-2,0,-2,0,-2,1,1,2,0,0,1,-2,1,0,0,1,-2,2,0,2,0,0,0,1,1,1,0,1,1,32.1776
+Male,0 - 10k,180 - 185,Yes,They are separate,Sometimes,"Yes, I have family",More than three times a week,Rarely,Yes,0,0,2,1,-2,-2,-2,-1,2,2,-2,-1,-2,0,1,-2,0,0,0,-2,0,-2,-2,-2,0,0,1,0,0,2,0,-1,-5.5252
+Male,0 - 10k,150 - 155,Yes,They are separate,Sometimes,"Yes, I have friends",More than three times a week,Sometimes,Yes,-2,-2,0,-2,-2,-2,0,-2,-2,-2,-2,1,0,-1,-2,-2,-1,-1,0,-2,1,-2,0,-2,-2,1,0,-1,-2,0,-2,-1,-18.2218
+Female,0 - 10k,165 - 170,Yes,They are separate,Rarely,"Yes, I have both",At least once a week,Never,Yes,-2,-2,2,-1,0,0,-1,-1,1,1,0,1,1,0,-2,-1,-2,1,1,-2,0,0,1,1,0,0,0,-2,1,0,0,0,-9.9045
+Male,200k above,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have family",More than three times a week,Never,Yes,1,-2,2,-2,-2,2,-2,-2,2,0,0,1,-2,1,0,-2,-2,0,2,-2,0,-1,1,1,-2,-2,1,-2,-1,0,1,0,8.26318
+Female,120k - 150k,165 - 170,Yes,They complement each other,Never,"Yes, I have family",At least once a month,Never,Yes,0,1,1,0,2,-2,0,0,0,2,-1,0,1,0,0,-1,0,2,0,1,1,1,2,0,0,0,0,1,0,0,-2,-2,-5.14217
+Female,0 - 10k,160 - 165,Yes,They are separate,Sometimes,"Yes, I have both",At least once a week,Always,Yes,0,0,1,-1,1,0,-2,-1,0,0,0,0,1,0,1,-1,0,1,1,0,1,-1,0,1,0,0,0,1,-1,1,1,0,-6.88219
+Male,15k - 20k,180 - 185,Yes,They conflict,Sometimes,"Yes, I have family",More than three times a week,Always,No,1,1,0,1,1,0,1,-2,1,1,0,1,0,2,0,2,0,2,0,1,1,2,1,0,1,1,-2,-2,1,0,1,1,8.22162
+Female,15k - 20k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Sometimes,Yes,-1,-2,-2,0,0,0,-1,-1,1,1,-2,-2,0,2,-1,-2,0,1,0,-1,0,-2,0,-2,1,0,0,-2,1,0,1,0,2.24884
+Female,15k - 20k,170 - 175,Yes,They are separate,Never,"Yes, I have family",More than three times a week,Never,No,0,0,-2,-2,1,-1,-2,-2,-2,-2,-2,0,2,0,0,0,-2,1,0,0,-2,2,-2,-2,0,1,-2,-2,1,0,0,1,3.65809
+Male,10k - 15k,165 - 170,Yes,They are separate,Rarely,"Yes, I have family",More than three times a week,Sometimes,Yes,0,1,2,1,-2,-2,2,-2,0,0,-2,-2,2,0,1,-2,1,2,1,2,0,0,1,1,1,2,0,1,-2,1,0,1,-5.54064
+Male,0 - 10k,165 - 170,Yes,They are separate,Never,"Yes, I have family",Rarely,Sometimes,Yes,1,1,1,-2,-2,1,-2,1,-2,0,0,1,1,-2,1,0,-2,0,1,1,0,2,-2,-2,1,2,0,1,0,0,0,1,-28.2638
+Male,120k - 150k,165 - 170,Yes,They complement each other,Rarely,No,At least once a month,Rarely,Yes,-1,-1,0,1,1,1,-1,-1,1,2,-1,0,1,0,1,-1,1,1,1,-1,2,-2,1,1,0,-1,2,1,-1,2,1,-1,15.6263
+Female,0 - 10k,160 - 165,Yes,They are separate,Rarely,"Yes, I have both",Rarely,Sometimes,Yes,-2,-2,1,-2,-2,-1,-1,-1,1,0,-1,0,-1,0,1,1,-1,1,-2,-1,1,-1,1,0,2,1,1,0,-2,0,1,0,-10.9745
+Female,200k above,170 - 175,Yes,They complement each other,Rarely,"Yes, I have family",No,Never,Yes,-1,-2,1,2,1,1,-2,-1,2,2,-1,0,1,2,0,-1,1,1,2,0,0,-1,0,1,2,-1,1,1,-2,2,1,-1,23.6536
+Male,15k - 20k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Always,No,-2,-2,2,1,2,0,-2,-1,1,0,-1,0,1,1,0,0,0,1,-2,0,1,-2,-2,2,2,-1,1,1,-1,1,0,-2,3.37211
+Male,0 - 10k,170 - 175,Yes,They conflict,Sometimes,"Yes, I have family",At least once a week,Never,No,-1,-1,1,0,0,0,-1,-2,0,0,-1,0,-1,2,0,0,0,2,1,-2,1,-1,0,2,1,0,-2,-2,0,0,0,-1,-0.0430352
+Female,0 - 10k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have both",Rarely,Always,No,2,2,1,0,0,0,1,0,0,1,0,0,2,0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,1,-26.766
+Male,120k - 150k,170 - 175,Yes,They complement each other,Always,"Yes, I have both",At least once a week,Always,Yes,-1,1,2,-2,-2,-2,0,-1,-2,-2,-2,-1,-1,1,0,-1,-2,2,0,1,-2,-1,1,1,0,2,-1,-2,1,0,1,1,0.695749
+Male,120k - 150k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a month,Never,Yes,-1,-1,1,-2,0,-2,0,-1,0,1,-2,1,0,1,0,-1,1,1,1,-1,1,-2,1,1,-2,0,1,0,-1,-2,0,-2,12.759
+Female,120k - 150k,165 - 170,Yes,They conflict,Rarely,No,More than three times a week,Rarely,Yes,-1,-1,1,1,-1,0,-1,-1,1,1,-2,-2,-2,-2,1,-2,1,1,1,-2,1,-1,-2,0,0,-2,1,0,-2,1,1,0,7.9682
+Male,200k above,180 - 185,Yes,They complement each other,Sometimes,"Yes, I have friends",More than three times a week,Rarely,Yes,-1,-1,2,0,0,0,0,-1,1,1,0,0,-1,0,2,-1,1,2,2,-1,2,-2,2,1,1,0,2,1,-2,1,1,-2,12.0218
+Female,200k above,150 - 155,Yes,They complement each other,Never,"Yes, I have friends",At least once a week,Never,Yes,0,-2,1,1,0,-2,0,-1,1,2,0,0,1,0,2,-2,1,2,1,-1,0,-1,1,1,2,-2,2,1,-2,1,0,1,13.8242
+Female,20k - 50k,155 - 160,Yes,They are separate,Rarely,"Yes, I have family",More than three times a week,Rarely,Yes,2,0,2,2,0,1,1,0,1,1,-2,1,-2,1,1,1,1,0,0,-2,0,0,1,2,2,1,0,0,-1,2,0,-1,1.70899
+Male,15k - 20k,160 - 165,Yes,They conflict,Rarely,"Yes, I have both",At least once a week,Sometimes,Yes,2,2,2,2,-2,0,1,0,0,1,-1,1,-2,1,0,1,-2,1,-2,1,0,-1,2,2,0,1,-1,2,1,1,-2,0,-0.405224
+Female,120k - 150k,140 - 150,Yes,They are separate,Never,"Yes, I have both",At least once a month,Always,Yes,0,0,1,2,1,0,0,-2,1,-2,0,0,1,0,2,-2,2,1,0,-1,0,-1,1,0,-2,0,1,0,0,1,1,0,-15.2266
+Female,120k - 150k,165 - 170,Yes,They are separate,Sometimes,No,At least once a week,Rarely,Yes,-1,-1,1,0,-1,-2,0,-1,1,1,0,-1,-2,1,-2,-1,0,2,0,-2,0,0,2,1,0,-2,0,1,0,1,0,0,-9.29802
+Male,120k - 150k,175 - 180,Yes,They complement each other,Rarely,No,No,Sometimes,Yes,0,0,1,1,1,2,-2,0,2,1,0,-2,2,1,-2,-2,0,0,1,1,0,-2,-2,1,-2,1,2,0,2,1,1,0,-0.898275
+Male,20k - 50k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have family",More than three times a week,Always,Yes,-2,0,2,2,2,2,1,-2,1,2,0,0,-1,1,0,-1,-2,1,1,-2,1,-2,2,2,-2,-1,-2,0,-1,1,2,-1,14.944
+Male,120k - 150k,160 - 165,Yes,They are separate,Sometimes,"Yes, I have family",Rarely,Never,Yes,1,1,2,0,2,0,-2,-2,-2,-2,1,-2,1,-1,0,0,-1,1,0,2,0,1,1,1,-2,1,-2,-2,2,-2,-2,2,-4.84333
+Other,15k - 20k,185 - 190,Yes,They complement each other,Sometimes,"Yes, I have family",Rarely,Always,Yes,-2,0,0,-1,1,-1,0,0,-2,0,-1,0,1,-1,0,2,-2,1,0,0,0,1,-2,0,0,0,-2,-2,-2,-2,-2,0,2.44854
+Male,0 - 10k,140 - 150,Yes,They complement each other,Sometimes,"Yes, I have both",No,Sometimes,Yes,-2,1,-2,0,0,-2,-2,-2,1,-2,-2,-1,2,-2,0,-1,0,-1,0,1,-2,0,1,1,0,1,-2,-2,2,-2,1,-2,-26.5616
+Female,10k - 15k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Always,No,-2,0,1,-2,-2,0,0,-1,-2,1,0,1,-2,-2,1,-2,0,0,-2,-2,2,-1,1,2,-2,-2,1,1,-1,0,1,-2,-2.87006
+Female,150k - 200k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have family",At least once a week,Always,Yes,0,1,0,0,1,0,0,0,0,1,0,0,-2,0,0,1,-2,1,1,1,0,0,0,1,0,-2,0,-2,0,0,0,0,-0.617883
+Male,0 - 10k,175 - 180,Yes,They conflict,Always,"Yes, I have both",At least once a month,Sometimes,Yes,0,0,1,1,-1,1,0,-2,1,2,0,0,2,1,0,-1,1,1,1,0,1,-2,0,0,1,0,0,0,1,2,1,0,-4.30793
+Male,10k - 15k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a month,Always,Yes,-1,0,1,1,1,1,0,-2,1,2,-2,1,-1,1,1,-2,1,2,1,-1,1,-1,2,1,1,0,1,1,-1,1,1,-1,-4.2797
+Male,150k - 200k,165 - 170,Yes,They are separate,Rarely,"Yes, I have both",At least once a week,Never,No,-2,-1,2,-1,0,0,-2,-1,-2,1,-1,2,-2,0,-2,-2,-1,1,1,-2,0,-1,0,0,1,-2,1,2,0,1,-2,-2,2.48875
+Male,0 - 10k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have both",No,Always,Yes,1,1,0,-2,-2,-2,0,0,0,-2,-1,-2,1,1,1,0,-2,0,-2,2,0,1,0,0,-2,2,1,-2,1,1,0,1,-24.6542
+Female,0 - 10k,155 - 160,Yes,They complement each other,Sometimes,No,At least once a month,Always,Yes,2,0,0,-2,-1,1,2,0,2,-2,1,-2,-1,1,0,-2,-2,1,-2,-2,-2,-1,0,1,1,-2,0,-2,-2,1,1,-1,-8.71567
+Male,0 - 10k,175 - 180,Yes,They complement each other,Rarely,"Yes, I have both",At least once a week,Rarely,Yes,0,-1,0,0,1,-2,-2,-2,2,1,-2,-2,0,2,0,-1,2,0,1,-1,0,-1,1,-2,-2,-1,2,0,-1,1,2,-1,6.4925
+Male,0 - 10k,180 - 185,Yes,They are separate,Never,"Yes, I have family",At least once a week,Sometimes,Yes,0,0,1,0,0,0,-2,0,1,1,-2,0,1,1,1,0,0,1,0,-2,0,-1,0,0,1,-2,1,0,-1,0,1,-2,-20.1438
+Male,10k - 15k,175 - 180,Yes,They are separate,Rarely,"Yes, I have both",At least once a week,Always,Yes,0,-2,2,2,2,2,0,-1,1,2,1,1,0,1,2,-1,2,2,2,-1,2,-1,1,2,0,-1,2,2,-1,2,2,-2,7.9528
+Male,10k - 15k,155 - 160,Yes,They conflict,Rarely,No,At least once a week,Always,Yes,-2,0,1,-2,1,1,-2,-1,0,1,0,1,0,1,2,0,1,1,1,0,2,-1,1,0,1,2,0,2,-1,1,1,0,-10.6256
+Female,0 - 10k,160 - 165,Yes,They are separate,Always,"Yes, I have both",More than three times a week,Never,Yes,0,1,1,0,0,1,0,1,-2,2,0,0,1,0,0,-1,0,1,-2,0,1,0,1,1,0,1,1,2,0,2,-2,-1,-17.0255
+Male,150k - 200k,185 - 190,Yes,They conflict,Never,"Yes, I have both",More than three times a week,Never,Yes,-1,-2,1,1,-2,-2,-2,-2,0,0,-1,-1,-1,-2,0,0,1,2,0,-2,-2,-2,2,1,0,-1,1,1,-1,1,1,-1,4.56627
+Male,0 - 10k,175 - 180,Yes,They are separate,Sometimes,"Yes, I have both",At least once a month,Never,Yes,-2,0,2,0,-2,1,0,-2,2,0,-2,0,0,2,0,-1,0,1,0,-2,0,-2,2,2,0,0,0,1,-2,1,0,0,-7.23917
+Male,120k - 150k,160 - 165,Yes,They are separate,Never,"Yes, I have family",At least once a week,Sometimes,Yes,-1,-2,-2,1,0,0,1,-2,-1,0,-1,1,1,1,2,-2,0,1,0,0,-2,-2,-2,-2,-2,2,0,0,2,0,0,0,0.508975
+Female,0 - 10k,160 - 165,Yes,They complement each other,Always,"Yes, I have family",More than three times a week,Rarely,Yes,0,0,0,0,-1,0,1,-2,1,-2,-2,0,0,-2,0,-1,1,1,0,-2,-2,1,0,0,0,2,1,-2,0,2,0,1,-26.3393
+Female,120k - 150k,150 - 155,Yes,They are separate,Never,"Yes, I have family",At least once a week,Always,Yes,-2,0,1,0,0,-2,-2,-1,0,1,-1,-2,-1,1,-2,0,-2,1,1,0,0,0,0,0,0,0,0,0,0,1,1,-2,-7.30629
+Female,200k above,180 - 185,Yes,They complement each other,Sometimes,"Yes, I have both",No,Rarely,Yes,-2,-2,2,-1,-2,-2,-1,0,1,-2,-1,-2,0,0,0,-2,-2,1,1,-1,-2,-1,0,0,2,-2,2,1,0,0,1,-2,-0.0933059
+Male,120k - 150k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Sometimes,Yes,-1,-1,1,1,1,-1,-1,-1,1,1,-1,1,-1,1,1,-1,0,1,1,-1,1,-1,1,1,1,-1,1,1,-1,1,0,-1,-0.671391
+Male,150k - 200k,180 - 185,Yes,They complement each other,Always,"Yes, I have both",More than three times a week,Never,Yes,-1,-2,1,1,1,0,-2,-1,0,1,-2,-1,0,0,-2,-2,0,2,1,-1,0,0,0,0,0,0,-2,-2,0,0,0,-2,17.4284
+Female,150k - 200k,150 - 155,Yes,They complement each other,Rarely,"Yes, I have friends",No,Always,Yes,-2,-1,2,-2,-2,-2,1,-2,0,1,-1,-2,-2,-2,2,-1,-1,2,2,-1,2,0,2,1,1,0,2,1,0,0,-2,-1,11.2352
+Female,200k above,155 - 160,Yes,They are separate,Sometimes,"Yes, I have family",Rarely,Always,Yes,0,0,1,0,-1,-2,0,-1,-2,0,-1,-1,-2,-2,2,-2,-2,0,-2,0,0,-1,1,0,1,-2,0,-2,-2,1,0,0,14.1282
+Female,10k - 15k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",Rarely,Never,Yes,1,1,1,-1,-2,0,1,-2,-1,-1,-2,-1,-1,-1,0,1,-1,0,-2,1,-2,0,-2,-2,-2,1,-2,0,-2,1,-2,0,-13.1674
+Female,120k - 150k,155 - 160,Yes,They complement each other,Rarely,"Yes, I have family",At least once a month,Sometimes,Yes,0,1,2,-2,2,0,2,-2,2,0,1,1,2,1,1,-1,0,0,0,-2,0,-2,2,1,1,-1,1,1,-1,1,0,1,-22.0077
+Male,0 - 10k,180 - 185,Yes,They complement each other,Rarely,"Yes, I have both",No,Sometimes,No,1,1,1,-1,-2,-1,-2,0,1,-2,-1,-1,0,-2,-2,0,0,0,-2,-2,-2,1,1,0,-1,1,-2,0,0,0,-2,-1,-15.7845
+Male,120k - 150k,170 - 175,Yes,They complement each other,Never,"Yes, I have both",No,Rarely,Yes,-2,0,1,1,-2,-2,0,-2,0,-2,-1,-2,-2,-2,0,0,-2,1,0,0,0,0,0,0,0,0,0,1,-2,0,-2,-2,-9.59491
+Female,20k - 50k,155 - 160,Yes,They complement each other,Rarely,"Yes, I have both",No,Never,Yes,-2,0,1,-2,1,-2,0,-2,-2,1,-2,0,2,-2,0,-2,-2,0,1,2,0,-2,-1,2,1,-2,-2,-2,0,0,0,1,18.4064
+Female,15k - 20k,140 - 150,Yes,They complement each other,Always,"Yes, I have both",More than three times a week,Sometimes,Yes,-1,-1,1,-1,-1,0,0,-1,1,1,-1,-1,-1,0,1,-1,0,1,0,-1,0,-1,0,1,-1,0,1,1,-1,1,1,0,-2.51322
+Male,50k - 80k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Sometimes,Yes,-1,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15.16
+Male,15k - 20k,160 - 165,Yes,They complement each other,Rarely,"Yes, I have family",At least once a week,Always,No,0,1,-2,0,0,-1,0,0,0,1,-1,-1,-2,0,0,-2,-2,2,0,0,1,0,-2,0,0,-2,2,1,-2,1,-1,0,-17.1976
+Female,0 - 10k,160 - 165,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Rarely,Yes,-1,-1,1,-2,-2,0,-2,-1,2,1,-2,0,1,1,0,-2,0,1,0,0,1,-1,1,1,0,-2,0,-2,0,0,0,1,-0.739451
+Male,0 - 10k,150 - 155,Yes,They are separate,Never,"Yes, I have both",At least once a month,Never,Yes,-2,-2,0,-1,-2,0,0,-2,1,0,-2,0,1,-2,1,-2,0,0,0,-1,0,-1,1,1,1,-2,1,1,0,0,0,1,-24.8261
+Female,50k - 80k,160 - 165,Yes,They are separate,Always,"Yes, I have both",At least once a week,Always,Yes,-2,-2,1,1,1,1,0,-2,2,1,1,0,2,0,2,-2,2,1,1,0,1,0,2,2,2,2,1,1,-2,2,0,-2,14.7175
+Male,0 - 10k,170 - 175,Yes,They complement each other,Always,"Yes, I have both",At least once a month,Always,Yes,0,1,1,0,0,0,1,-2,1,1,-1,-1,-1,0,0,-1,0,1,0,1,0,-1,0,0,1,-1,1,2,0,1,0,0,-10.6628
+Female,150k - 200k,175 - 180,Yes,They complement each other,Always,"Yes, I have both",Rarely,Never,No,1,1,2,1,1,1,-1,0,0,1,0,1,2,1,2,1,0,2,1,2,1,-2,0,1,1,0,1,1,1,0,1,1,-7.72899
+Female,150k - 200k,165 - 170,Yes,They are separate,Rarely,No,At least once a month,Always,Yes,1,-2,2,0,0,2,-2,0,0,2,0,-1,1,-2,-2,-2,-2,1,0,-2,0,-1,1,1,0,1,2,1,-1,0,0,-1,1.93999
+Female,0 - 10k,165 - 170,Yes,They complement each other,Never,"Yes, I have both",At least once a week,Sometimes,No,1,2,0,1,0,0,1,0,1,-2,-2,-2,-2,0,-2,0,-2,0,-2,0,0,0,0,0,1,1,-1,0,1,0,-2,0,-16.6453
+Male,120k - 150k,175 - 180,Yes,They are separate,Sometimes,"Yes, I have family",No,Never,Yes,1,0,0,1,-2,1,0,0,0,0,0,0,0,1,-2,-1,2,0,0,-2,-2,-1,0,-2,1,2,1,1,2,1,0,0,11.976
+Male,20k - 50k,180 - 185,Yes,They are separate,Sometimes,"Yes, I have family",No,Always,Yes,-1,-1,0,1,0,0,-2,-1,0,2,-1,0,-1,-2,0,0,1,2,0,-1,0,-1,0,0,1,-1,1,1,-1,1,0,-1,17.8768
+Male,10k - 15k,175 - 180,Yes,They complement each other,Never,"Yes, I have both",At least once a month,Rarely,Yes,-1,0,1,1,1,1,-1,1,2,2,-1,-2,-2,1,0,0,1,2,-2,-1,1,0,2,0,-2,-2,0,1,0,2,0,-1,-4.4622
+Male,0 - 10k,165 - 170,Yes,They are separate,Rarely,"Yes, I have both",No,Never,Yes,0,0,0,0,-2,1,0,-2,0,-2,-1,1,-2,2,0,-2,-2,1,0,-2,0,-1,0,1,-2,2,0,1,2,1,2,1,2.50241
+Male,150k - 200k,140 - 150,Yes,They conflict,Sometimes,"Yes, I have friends",Rarely,Sometimes,Yes,1,1,1,1,-1,0,0,0,0,1,1,0,0,1,1,2,-2,0,1,2,0,0,-1,0,2,2,-2,-2,0,0,1,1,0.479775
+Female,10k - 15k,140 - 150,Yes,They are separate,Rarely,"Yes, I have friends",No,Always,Yes,-2,0,-1,1,-2,1,0,-1,0,-1,2,0,0,0,0,1,0,1,0,-2,1,0,0,0,0,1,1,0,0,1,0,0,-7.17979
+Female,0 - 10k,165 - 170,Yes,They complement each other,Always,"Yes, I have both",At least once a week,Always,Yes,0,0,1,0,1,1,1,0,1,1,0,1,0,1,1,-1,0,1,1,0,1,-1,1,1,1,-1,1,1,-1,1,2,0,-6.21194
+Male,150k - 200k,155 - 160,Yes,They conflict,Rarely,"Yes, I have both",No,Sometimes,Yes,0,-2,1,-1,0,0,0,0,0,0,-2,-2,1,-2,1,0,-1,1,0,0,-2,0,-2,0,0,1,0,0,1,-2,-2,0,-13.0338
+Female,10k - 15k,160 - 165,Yes,They conflict,Sometimes,"Yes, I have both",More than three times a week,Never,Yes,-1,-2,2,0,-2,-2,0,-2,-2,0,-2,-2,1,-2,2,0,0,1,-2,0,0,-1,0,1,0,0,1,-2,0,0,2,-2,0.648789
+Female,15k - 20k,155 - 160,Yes,They conflict,Always,"Yes, I have both",More than three times a week,Never,Yes,-1,0,2,0,0,2,-1,1,2,2,0,0,0,1,0,-2,0,2,0,0,0,-1,1,2,0,0,1,2,-2,0,0,0,12.1413
+Female,0 - 10k,165 - 170,Yes,They are separate,Sometimes,"Yes, I have both",At least once a month,Always,Yes,-2,-1,1,0,0,1,-1,-2,1,0,2,-1,1,1,0,-1,1,1,0,0,0,0,1,1,0,-1,1,-1,-1,2,1,-1,-3.30868
+Female,200k above,140 - 150,Yes,They complement each other,Sometimes,"Yes, I have both",No,Rarely,No,-2,1,1,-1,0,-1,0,-2,0,1,1,1,1,-1,0,-2,-1,1,0,2,-2,1,1,0,0,-2,-2,-2,0,-1,0,2,2.94069
+Male,0 - 10k,165 - 170,No,They are separate,Rarely,"Yes, I have both",At least once a week,Never,Yes,0,0,1,2,1,0,-1,-2,1,1,-1,1,0,0,1,-2,2,1,1,-2,1,-2,1,1,0,0,2,1,-1,0,0,1,-24.6964
+Female,120k - 150k,140 - 150,Yes,They conflict,Never,"Yes, I have both",At least once a month,Sometimes,No,-2,-2,2,2,-2,1,1,-2,2,2,-1,2,-1,1,1,-1,2,1,2,-1,1,0,2,1,1,-1,1,1,2,1,2,1,-5.6086
+Female,0 - 10k,155 - 160,Yes,They complement each other,Rarely,"Yes, I have both",At least once a month,Sometimes,Yes,0,-2,1,1,0,1,1,-2,0,1,0,0,-2,-2,-2,0,0,1,-2,-1,-2,-2,-2,1,0,0,1,2,-2,1,0,2,-3.24632
+Female,0 - 10k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Rarely,Yes,-2,-2,0,0,-2,1,1,-2,1,1,1,-1,-2,-2,-2,1,-1,1,-2,2,0,1,0,2,-2,1,0,0,1,1,-2,0,-11.4449
+Male,15k - 20k,160 - 165,Yes,They are separate,Sometimes,"Yes, I have both",No,Sometimes,Yes,0,2,-2,-1,0,-2,0,0,0,-2,-2,0,1,-2,0,1,-1,0,-2,0,-2,0,-2,-2,-2,2,-2,-2,1,0,0,0,4.94792
+Male,15k - 20k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a month,Always,Yes,0,1,1,1,-1,0,1,0,-1,0,-1,-1,1,0,0,0,-1,0,-1,0,0,0,-1,0,0,1,0,1,1,0,-1,1,-8.58176
+Male,15k - 20k,160 - 165,Yes,They are separate,Rarely,"Yes, I have both",At least once a month,Always,Yes,0,-1,0,2,1,1,1,-1,1,0,-2,1,1,0,0,-1,-2,1,1,-2,1,-2,0,0,0,0,1,1,-2,1,-2,-2,13.781
+Male,0 - 10k,175 - 180,Yes,They complement each other,Always,No,At least once a month,Always,Yes,0,-2,1,-2,0,1,0,-2,2,2,-2,0,-1,2,-2,1,-1,1,0,-2,0,-1,1,1,1,0,0,0,-1,0,2,0,-7.68734
+Male,0 - 10k,170 - 175,Yes,They are separate,Sometimes,No,No,Rarely,Yes,-2,-2,1,0,-2,0,1,0,0,0,-1,-2,-1,-2,0,0,1,1,-2,-2,-2,-1,0,1,0,1,1,1,-1,1,-2,-2,-28.3703
+Female,0 - 10k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Always,No,1,2,1,-2,0,-1,1,0,0,0,1,0,2,0,-1,0,-1,-1,0,1,0,1,0,0,1,1,-1,0,1,0,0,1,-27.3485
+Female,50k - 80k,155 - 160,Yes,They complement each other,Always,"Yes, I have both",At least once a week,Sometimes,Yes,-1,0,1,1,-1,1,1,-1,1,0,-1,0,-1,0,0,1,-1,1,-2,1,0,0,1,1,0,0,-1,-1,1,1,0,0,12.5672
+Male,200k above,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have family",No,Rarely,Yes,-2,-2,2,2,0,1,-2,-2,0,2,0,0,0,1,2,1,0,1,2,1,2,-2,1,1,0,0,1,1,-2,1,1,0,9.82629
+Male,120k - 150k,165 - 170,Yes,They complement each other,Never,No,At least once a month,Always,Yes,0,1,2,1,2,0,-2,-2,1,2,0,2,0,0,1,-2,0,1,2,-1,2,-1,2,1,2,1,1,1,-2,0,1,-2,0.842494
+Male,20k - 50k,180 - 185,Yes,They are separate,Sometimes,"Yes, I have family",At least once a month,Sometimes,Yes,-1,-1,2,-1,-2,-1,-2,-1,-1,2,0,-1,1,-2,-1,1,-2,2,0,1,0,-1,0,-1,-1,0,0,-2,0,-1,0,-2,9.01551
+Male,10k - 15k,175 - 180,Yes,They are separate,Never,"Yes, I have both",No,Always,Yes,0,-2,2,2,-2,2,0,-1,1,2,-1,1,-1,1,2,-2,0,1,0,-1,-2,0,1,1,0,0,0,1,1,0,1,1,10.0247
+Female,15k - 20k,160 - 165,No,They complement each other,Rarely,"Yes, I have friends",At least once a month,Sometimes,Yes,-2,-2,2,2,0,2,-2,-1,0,2,0,1,0,0,2,0,0,2,1,-2,1,-2,1,2,0,-2,1,2,-1,2,1,0,-4.35649
+Female,10k - 15k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have family",No,Never,Yes,-2,0,1,-1,1,-2,-1,-1,0,0,-1,-2,0,0,0,0,-2,0,2,-1,0,-2,0,0,1,0,0,-2,0,0,0,0,-1.40674
+Female,80k - 120k,160 - 165,Yes,They conflict,Rarely,No,Rarely,Always,No,1,1,1,0,1,0,1,0,0,1,1,-1,1,-1,1,0,0,-1,0,0,1,0,-1,1,0,0,1,1,0,1,1,0,26.5692
+Female,150k - 200k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Sometimes,Yes,0,0,-2,-2,1,-2,-2,0,0,-2,1,-1,-2,0,-2,1,0,1,-1,0,0,-2,0,0,0,0,-2,-2,1,0,2,0,-3.75579
+Male,10k - 15k,165 - 170,Yes,They conflict,Rarely,"Yes, I have both",More than three times a week,Rarely,No,-2,-1,1,-1,-2,-1,0,-2,0,0,-2,0,-2,0,1,-1,0,1,0,-2,1,-2,-2,0,1,0,0,0,0,1,0,0,-0.209215
+Male,120k - 150k,180 - 185,Yes,They are separate,Sometimes,No,At least once a month,Always,Yes,0,-2,1,0,0,2,0,-1,1,0,1,1,-2,2,1,0,0,1,0,-1,1,-1,1,1,-2,1,1,2,1,1,2,0,11.3909
+Male,0 - 10k,170 - 175,Yes,They complement each other,Sometimes,"Yes, I have both",No,Always,Yes,0,0,0,1,-2,-1,-2,-1,0,0,-2,-2,2,-2,0,-2,-2,0,0,0,0,0,-2,-2,-1,2,1,-2,1,0,-2,-2,-18.3174
+Male,0 - 10k,175 - 180,Yes,They conflict,Sometimes,"Yes, I have both",More than three times a week,Sometimes,Yes,-2,-2,2,0,-1,0,-1,-1,0,-2,-2,0,-1,-1,-1,0,-2,0,1,-2,-2,-1,-2,1,0,1,-2,0,-2,0,-2,-2,-4.50545
+Female,0 - 10k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Always,Yes,-1,-1,2,1,-2,1,-2,-1,2,1,-1,0,0,1,0,-2,2,0,-2,-2,2,-1,2,2,1,0,2,1,-1,2,0,1,-14.3089
+Female,200k above,155 - 160,Yes,They are separate,Rarely,"Yes, I have family",No,Sometimes,Yes,-2,0,0,-1,0,0,0,1,0,1,2,0,0,-2,0,1,1,1,1,0,1,-1,0,0,-1,0,1,1,0,1,1,1,6.18427
+Male,0 - 10k,170 - 175,Yes,They complement each other,Rarely,"Yes, I have both",More than three times a week,Rarely,Yes,0,0,1,0,2,1,-2,0,0,2,-1,-2,1,0,-2,1,-2,0,0,-2,0,-2,0,0,1,1,-2,1,1,-2,0,1,-14.251
+Female,50k - 80k,165 - 170,Yes,They complement each other,Sometimes,No,At least once a month,Always,Yes,-2,-1,1,1,1,-2,-2,-1,2,1,0,-1,1,0,0,-2,0,1,1,-2,1,-2,1,-2,1,-2,1,-1,0,0,1,-2,15.6121
+Male,0 - 10k,160 - 165,Yes,They complement each other,Never,"Yes, I have both",At least once a week,Never,Yes,-2,-1,0,0,1,-2,-1,-1,-2,1,-1,0,0,-2,-1,2,0,1,1,-2,0,0,2,0,-2,0,0,0,0,0,-2,1,-5.30062
+Other,0 - 10k,175 - 180,Yes,They complement each other,Rarely,"Yes, I have family",No,Rarely,Yes,1,2,-2,-1,1,0,1,1,-2,0,0,-2,1,1,-2,1,-1,1,0,0,0,0,-1,0,0,1,-2,0,2,0,1,0,-6.4565
+Female,120k - 150k,155 - 160,Yes,They complement each other,Sometimes,"Yes, I have family",At least once a week,Never,Yes,-1,-1,2,2,2,2,-2,-1,2,2,-2,2,-2,2,2,-1,2,1,0,-1,0,-1,2,2,2,-1,2,2,-1,2,1,-2,11.1776
+Male,20k - 50k,170 - 175,Yes,They complement each other,Rarely,No,More than three times a week,Rarely,Yes,1,1,0,2,1,0,0,1,1,0,1,2,2,0,1,0,1,0,-2,0,-2,-1,1,0,-1,-2,2,1,-1,0,0,2,10.0462
+Female,200k above,160 - 165,Yes,They conflict,Rarely,"Yes, I have both",At least once a week,Always,Yes,0,-2,2,1,-2,1,-2,-2,0,1,0,1,2,1,2,-1,0,1,1,0,1,-1,0,2,1,-2,0,2,-2,1,1,0,20.2774
+Male,120k - 150k,175 - 180,Yes,They conflict,Rarely,"Yes, I have family",No,Never,No,-1,-1,1,2,0,2,-2,-1,1,1,-1,-2,-1,1,0,-2,0,1,1,-1,1,-1,2,2,1,-1,0,1,-1,0,2,0,4.39478
+Male,0 - 10k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have family",Rarely,Always,Yes,0,-1,0,-1,0,-2,1,-2,0,0,0,1,0,-2,0,-1,-2,1,0,1,0,-2,1,0,-1,0,2,-2,-2,1,0,-1,-14.2762
+Male,0 - 10k,175 - 180,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a week,Always,Yes,0,-1,1,1,0,1,-1,-1,0,1,-2,1,0,0,1,-1,1,1,1,-1,0,-1,0,1,1,0,1,1,-1,1,1,0,-1.73911
+Female,15k - 20k,150 - 155,Yes,They complement each other,Rarely,"Yes, I have both",No,Rarely,No,2,1,-2,-1,-2,1,0,1,-2,0,1,0,1,0,1,0,-1,1,1,1,-2,2,1,-2,-2,0,0,-2,1,0,2,2,-7.33104
+Female,0 - 10k,165 - 170,Yes,They conflict,Sometimes,"Yes, I have both",At least once a week,Always,Yes,-2,-1,1,-1,0,1,-1,-2,1,1,-1,1,1,1,1,-1,1,1,1,-1,1,-1,1,1,1,-1,1,1,-1,1,1,-1,-3.43577
+Male,0 - 10k,155 - 160,Yes,They complement each other,Always,"Yes, I have both",More than three times a week,Rarely,Yes,0,2,-2,-1,1,-1,0,1,-1,-2,0,-2,2,-1,1,0,-1,1,-2,2,-2,1,-1,-1,0,2,-1,0,1,-2,-2,1,-31.5901
+Male,50k - 80k,170 - 175,Yes,They conflict,Sometimes,"Yes, I have both",No,Never,Yes,-1,-2,1,-2,-2,-2,0,-2,1,0,-2,1,-1,0,2,2,2,0,0,1,0,0,1,1,1,-1,0,0,0,1,0,-2,24.3218
+Female,0 - 10k,170 - 175,Yes,They are separate,Rarely,"Yes, I have family",No,Rarely,Yes,-2,0,0,-1,0,-2,-2,-2,-2,0,1,0,-2,-2,-2,-2,1,0,0,1,0,2,0,0,-2,1,0,-2,0,0,0,1,-1.89394
+Male,0 - 10k,180 - 185,Yes,They complement each other,Sometimes,"Yes, I have family",More than three times a week,Sometimes,Yes,-1,-2,0,1,-1,1,0,-1,0,0,0,0,0,0,1,-1,1,1,0,-2,-2,0,-2,1,-2,-1,0,1,0,1,0,-2,-10.7478
+Male,0 - 10k,175 - 180,Yes,They are separate,Sometimes,"Yes, I have both",At least once a month,Rarely,Yes,-1,0,1,-1,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,0,0,0,0,0,0,0,0,-4.25518
+Male,0 - 10k,160 - 165,Yes,They are separate,Never,"Yes, I have both",No,Sometimes,Yes,1,1,1,1,2,0,0,1,-2,2,-1,1,0,0,1,-2,0,1,0,0,-2,0,-2,0,1,2,1,2,-2,1,0,-2,-20.6593
+Male,0 - 10k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",No,Sometimes,Yes,-2,0,2,0,0,0,-2,-2,0,1,-2,-1,0,1,2,-2,2,1,0,-2,2,-1,1,1,2,-2,0,2,-2,2,0,-1,-18.0027
+Male,15k - 20k,185 - 190,Yes,They are separate,Rarely,"Yes, I have both",More than three times a week,Never,Yes,-1,-1,2,2,2,2,-2,-1,2,2,-2,1,1,1,1,1,0,1,1,-2,2,-1,1,1,2,0,1,0,-1,1,2,-1,27.7621
+Male,150k - 200k,180 - 185,Yes,They conflict,Always,"Yes, I have family",No,Always,No,-1,-1,2,-2,-2,0,1,-2,0,2,-2,2,1,1,0,-2,0,1,-2,0,0,0,0,0,0,0,0,0,0,0,-2,0,16.4015
+Male,150k - 200k,150 - 155,Yes,They are separate,Sometimes,"Yes, I have both",At least once a month,Always,Yes,-1,-2,1,2,1,0,-2,-1,1,2,-2,0,-1,0,2,-2,1,1,2,-1,2,-1,2,2,1,-1,2,1,-1,1,1,-1,4.03683
+Female,10k - 15k,170 - 175,Yes,They conflict,Sometimes,"Yes, I have both",More than three times a week,Always,Yes,-2,-1,0,1,-2,-1,-2,-1,0,1,-1,0,-2,-2,0,0,1,1,0,-2,0,0,-2,-2,0,0,0,0,0,1,-2,-2,-3.13074
+Male,0 - 10k,180 - 185,Yes,They are separate,Rarely,"Yes, I have family",At least once a week,Sometimes,Yes,-1,0,0,-1,-1,-1,0,-1,-1,0,1,0,1,1,0,1,0,1,0,0,0,1,0,1,0,1,0,0,-1,0,-1,0,-2.92369
+Male,10k - 15k,170 - 175,Yes,They conflict,Always,"Yes, I have both",At least once a week,Always,Yes,-2,0,2,0,2,1,-1,-1,1,1,-2,-1,-1,-1,1,-1,1,2,1,-1,0,-2,2,1,-1,-1,2,1,-1,1,0,-1,-4.93169
+Female,15k - 20k,150 - 155,Yes,They complement each other,Sometimes,"Yes, I have both",More than three times a week,Always,Yes,0,0,1,1,1,1,-2,-1,1,2,0,0,-2,1,1,-1,0,0,1,0,0,-1,1,1,2,1,2,1,-2,2,1,2,6.87042
+Female,150k - 200k,165 - 170,Yes,They complement each other,Rarely,"Yes, I have family",More than three times a week,Always,No,0,0,2,1,0,-2,1,-2,0,0,0,0,0,0,1,0,1,0,-2,-1,-2,0,1,1,1,-1,1,0,0,-2,0,-2,-6.39584
+Female,50k - 80k,155 - 160,Yes,They complement each other,Never,"Yes, I have family",No,Rarely,Yes,0,1,0,2,-2,0,1,1,1,1,0,1,0,0,0,2,1,1,0,-2,-2,0,1,2,0,-2,0,1,2,1,0,0,1.34061
+Female,0 - 10k,160 - 165,Yes,They complement each other,Always,"Yes, I have both",At least once a week,Always,Yes,-2,0,0,-2,0,-2,-1,0,1,-2,-1,-2,2,0,1,0,1,2,0,-2,-2,1,0,1,1,0,1,1,0,1,0,0,-39.4755
+Female,0 - 10k,150 - 155,Yes,They complement each other,Sometimes,"Yes, I have family",Rarely,Always,Yes,-1,-1,2,0,0,2,-1,0,1,1,0,0,2,0,2,-1,1,0,2,-2,2,-1,1,2,2,-2,2,2,1,1,2,-1,-6.09718
+Male,15k - 20k,170 - 175,Yes,They are separate,Sometimes,"Yes, I have both",At least once a week,Always,Yes,-1,-2,1,2,-1,-2,0,-1,0,2,-1,-1,1,0,0,0,1,2,-2,1,-2,-1,-2,0,0,0,1,-2,1,0,1,0,11.3619
+Female,80k - 120k,150 - 155,No,They complement each other,Sometimes,"Yes, I have friends",More than three times a week,Sometimes,Yes,1,1,1,1,0,0,0,1,2,2,1,1,0,-2,1,1,1,1,0,2,0,2,1,1,1,-2,0,1,-1,1,0,0,24.6668
+Male,10k - 15k,180 - 185,Yes,They complement each other,Sometimes,"Yes, I have both",At least once a month,Always,Yes,2,-2,1,2,1,2,0,0,0,2,2,1,2,1,1,-2,0,0,1,0,0,-2,0,1,-2,-2,2,2,1,1,2,-2,-2.17895
+Male,120k - 150k,165 - 170,Yes,They are separate,Rarely,"Yes, I have both",Rarely,Rarely,No,0,1,0,-2,1,-2,0,0,0,1,-1,0,1,0,-2,-2,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,-2.54723
+Female,120k - 150k,165 - 170,Yes,They complement each other,Sometimes,"Yes, I have both",Rarely,Always,Yes,-1,-1,1,0,-1,-2,-1,-1,0,0,-2,-2,-2,0,1,-2,0,0,0,-2,0,-2,2,1,-2,-1,0,0,0,1,-2,-1,13.7843
+Male,10k - 15k,165 - 170,Yes,They are separate,Rarely,"Yes, I have both",Rarely,Sometimes,Yes,0,1,0,-1,0,-2,0,0,0,0,-2,0,2,-2,0,-1,-1,0,1,-2,-1,-2,0,0,-1,1,0,0,-2,-2,1,1,-5.55182
+Female,15k - 20k,170 - 175,Yes,They complement each other,Rarely,No,At least once a month,Always,Yes,-1,-1,2,0,-2,1,1,-1,1,1,-2,-2,0,0,1,-2,1,1,-2,0,0,-1,1,0,0,-1,0,-2,-1,1,1,-1,5.92284
