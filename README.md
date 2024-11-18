@@ -17,7 +17,7 @@ Each project demonstrates my skills in data analysis, machine learning, and visu
 - Tackled challenges such as the cold start problem, data sparsity, and managing large datasets.  
 - Achieved a **94% grade** on the assignment and ranked **18th out of 95 students** on the Kaggle leaderboard.  
 
-**Feature Selection and Implementation of Regression and Classification**  
+**Feature Selection and Implementation of Regression and Classification (R)**  
 - Conducted feature selection using statistical tests (e.g., Kruskal-Wallis) .  
 - Implemented regression and classification models (Random Forest) .  
 
