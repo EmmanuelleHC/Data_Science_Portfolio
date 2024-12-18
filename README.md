@@ -46,9 +46,15 @@ Here’s a polished version of your section:
 
 ---
 
-### **4. Data Visualization (Tableau, R Shiny, D3.js)**
+### **4. Data Visualization (Power BI, Tableau, R Shiny, D3.js)**
 
 This section showcases visualisations created using **Tableau**, **R Shiny**, and **D3.js** to analyze and present insights from Victoria road accident data.
+
+
+#### **Folder: Power BI**
+This Power BI dashboard provides key HR insights such as total employees, promotions, and job levels.
+View the live dashboard here:  
+[Open HR Dashboard](https://app.powerbi.com/reportEmbed?reportId=c2ec56fe-20e2-466d-bb3d-deb3ce37671e&autoAuth=true&ctid=ef7a487a-77ca-410a-803d-e426b62a587f)
 
 #### **Folder: Tableau Report**
 - **Objective**: Perform data analysis and identify irregularities in Victoria road accident data.
