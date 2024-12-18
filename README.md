@@ -52,9 +52,21 @@ This section showcases visualisations created using **Tableau**, **R Shiny**, an
 
 
 #### **Folder: Power BI**
-This Power BI dashboard provides key HR insights such as total employees, promotions, and job levels.
-View the live dashboard here:  
-[Open HR Dashboard](https://app.powerbi.com/reportEmbed?reportId=c2ec56fe-20e2-466d-bb3d-deb3ce37671e&autoAuth=true&ctid=ef7a487a-77ca-410a-803d-e426b62a587f)
+
+**HR Dashboard**, providing key insights into:
+- Employees **due for promotion**
+- Employees at risk of **retrenchment**
+- Breakdown by job levels and departments
+
+## View the Dashboard
+Due to platform limitations, the interactive Power BI dashboard cannot be embedded directly. However, you can:
+**View the Offline Report**: [Download the PDF version](HRData.pdf) of the dashboard to explore key insights.
+
+## About the Dashboard
+This dashboard helps HR teams analyze:
+- **Promotion Gaps**: Identifying employees who are overdue for promotion.
+- **Retrenchment Risk**: Highlighting employees most at risk.
+- **Job Levels and Departments**: Understanding trends across the organisation.
 
 #### **Folder: Tableau Report**
 - **Objective**: Perform data analysis and identify irregularities in Victoria road accident data.
