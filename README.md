@@ -58,11 +58,11 @@ This section showcases visualisations created using **Tableau**, **R Shiny**, an
 - Employees at risk of **retrenchment**
 - Breakdown by job levels and departments
 
-## View the Dashboard
+**View the Dashboard**
 Due to platform limitations, the interactive Power BI dashboard cannot be embedded directly. However, you can:
  **View the Offline Report**: [Download the PDF version](https://github.com/EmmanuelleHC/Data_Science_Portfolio/blob/main/Data%20Visualisation/Power%20BI/Clustered%20HR%20Data/HRData.pdf) 
 
-## About the Dashboard
+**About the Dashboard**
 This dashboard helps HR teams analyze:
 - **Promotion Gaps**: Identifying employees who are overdue for promotion.
 - **Retrenchment Risk**: Highlighting employees most at risk.
