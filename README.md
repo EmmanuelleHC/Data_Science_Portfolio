@@ -60,7 +60,7 @@ This section showcases visualisations created using **Tableau**, **R Shiny**, an
 
 ## View the Dashboard
 Due to platform limitations, the interactive Power BI dashboard cannot be embedded directly. However, you can:
-**View the Offline Report**: [Download the PDF version](HRData.pdf) of the dashboard to explore key insights.
+ **View the Offline Report**: [Download the PDF version](https://github.com/EmmanuelleHC/Data_Science_Portfolio/blob/main/Data%20Visualisation/Power%20BI/Clustered%20HR%20Data/HRData.pdf) 
 
 ## About the Dashboard
 This dashboard helps HR teams analyze:
