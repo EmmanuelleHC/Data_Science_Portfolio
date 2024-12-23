@@ -68,11 +68,19 @@ This dashboard helps HR teams analyze:
 - **Retrenchment Risk**: Highlighting employees most at risk.
 - **Job Levels and Departments**: Understanding trends across the organisation.
 
-#### **Folder: Tableau Report**
-- **Objective**: Perform data analysis and identify irregularities in Victoria road accident data.
-- **Key Features**:
-  - Created interactive dashboards to uncover trends and patterns in the data.
-  - Highlighted data irregularities and insights for improved decision-making.
+### **Folder: Tableau Report**
+
+1. **Victoria Road Accident Data Analysis**  
+   - **Objective**: Conduct data analysis and identify irregularities in Victoria road accident data.  
+   - **Key Features**:  
+     - Developed a report to uncover trends and patterns in accident data.  
+     - Highlighted data irregularities and provided insights for better decision-making.  
+
+2. **Interactive E-commerce Sales Dashboard**  
+   - **Objective**: Create an interactive dashboard to track e-commerce sales performance and trends.  
+   - **Key Features**:  
+     - Visualised key metrics such as revenue, sales performance, and customer behaviour.  
+     - Dashboard link: [E-commerce Sales Dashboard](https://public.tableau.com/app/profile/emmanuelle.christin/viz/EcommerceBook_17349426403290/Dashboard1?publish=yes)  
 
 #### **Folder: R Shiny**
 - **Objective**: Develop an interactive data visualization tool using **R Shiny**.
