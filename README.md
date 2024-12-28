@@ -81,6 +81,13 @@ This dashboard helps HR teams analyze:
    - **Key Features**:  
      - Visualised key metrics such as revenue, sales performance, and customer behaviour.  
      - Dashboard link: [E-commerce Sales Dashboard](https://public.tableau.com/app/profile/emmanuelle.christin/viz/EcommerceBook_17349426403290/Dashboard1?publish=yes)  
+3. **Interactive Customer Revenue Dashboard**  
+   - **Objective**: Analyze customer revenue trends to uncover actionable insights.  
+   - **Key Features**:  
+     - Visualises total revenue with breakdowns by month, state, age, region, and category.  
+     - Highlights top-performing months and age groups.  
+     - Interactive charts include geographic revenue mapping, category comparisons, and discount-quantity correlation analysis.  
+   - **Dashboard Link**: [Customer Analysis Dashboard](https://public.tableau.com/views/CustomerAnalysis_17353908271990/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 #### **Folder: R Shiny**
 - **Objective**: Develop an interactive data visualization tool using **R Shiny**.
