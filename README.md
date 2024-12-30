@@ -1,98 +1,39 @@
+# **Portfolio of Data Science Projects*
 
----
+Welcome to my portfolio repository, showcasing data science projects that highlight my skills in data analysis, machine learning, and visualisation.
 
-# **Portfolio of Data Science Projects**
-
-Welcome to my portfolio repository! This repository showcases my work on data science projects. 
-Each project demonstrates my skills in data analysis, machine learning, and visualisation.
-
----
 
 ## **Projects Overview**
 
 ### **1. Machine Learning**
-
-**Hybrid Recommender System (Python)**  
-- Designed a recommender system that combines content-based and collaborative filtering techniques.  
-- Tackled challenges such as the cold start problem, data sparsity, and managing large datasets.  
-- Achieved a **94% grade** on the assignment and ranked **18th out of 95 students** on the Kaggle leaderboard.  
-
-**Feature Selection and Implementation of Regression and Classification (R)**  
-- Conducted feature selection using statistical tests (e.g., Kruskal-Wallis) .  
-- Implemented regression and classification models (Random Forest) .  
-
+- **Hybrid Recommender System (Python)**: Combined content-based and collaborative filtering to address cold start and data sparsity, earning a **94% grade** and ranking **18th/95** on Kaggle.
+- **Feature Selection & Modelling (R)**: Applied statistical tests (e.g., Kruskal-Wallis) and implemented Random Forest regression and classification models.
 
 ### **2. ESG Survey Data Analysis**
-- Conducted exploratory data analysis on survey data about ESG (Environmental, Social, Governance) implementation in Malaysia.
-- Highlighted key adoption trends and challenges across industries.
-- Delivered actionable insights to stakeholders.
+- Analysed ESG adoption trends in Malaysia.
+- Delivered insights on industry challenges and stakeholder actions.
 
 ### **3. Data Wrangling (Python)**
+- **Part 1**: Extracted text patterns from CSV files using regex and generated bigrams for trend analysis.
+- **Part 2**: Cleaned and transformed data for predictive modelling with Linear Regression.
 
-Data wrangling is divided into two parts:
+### **4. Data Visualisation**
+#### **Folder: Excel**
+- **Sales Dashboard**: Integrated data sources from CSV, PDF, and SQL Server using:
+  - **Power Query,Power Pivot & DAX** for data cleaning and transformation.
+  - Developed an Excel-based sales dashboard for decision-making.
 
-#### **Part 1: Data Extraction and Bigram Creation**
-- **Objective**: Extract relevant text patterns from a **CSV file** using **Regex (Regular Expressions)** and process the data to generate meaningful **bigrams**.
-- **Key Steps**:
-  - Utilized regex to clean and extract structured data from raw text fields in the CSV file.
-  - Generated bigrams to identify and analyze frequently co-occurring word pairs for insights and trends.
+#### **Power BI Dashboards**
+- **HR Dashboard**: Insights on promotions, retrenchment risks, and departmental trends.  
+  - [Download PDF Version](https://github.com/EmmanuelleHC/Data_Science_Portfolio/blob/main/Data%20Visualisation/Power%20BI/Clustered%20HR%20Data/HRData.pdf)
 
-#### **Part 2: Data Cleaning and Wrangling for Predictive Analysis**
-- **Objective**: Prepare the dataset for **predictive analysis** using **Linear Regression**.
-- **Key Steps**:
-  - Handled missing values, outliers, and inconsistencies in the dataset to improve data quality.
-  - Applied transformations to normalize and scale numerical features for optimal model performance.
-Here’s a polished version of your section:
+#### **Tableau Reports**
+1. **Road Accident Analysis**: Trends and irregularities in Victoria's accident data.  
+2. **E-commerce Dashboard**: Interactive visualisation of revenue, performance, and customer behaviour.  
+   - [View Dashboard](https://public.tableau.com/app/profile/emmanuelle.christin/viz/EcommerceBook_17349426403290/Dashboard1?publish=yes)
+3. **Customer Revenue Dashboard**: Insights into revenue trends by demographics and regions.  
+   - [View Dashboard](https://public.tableau.com/views/CustomerAnalysis_17353908271990/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
----
-
-### **4. Data Visualization (Power BI, Tableau, R Shiny, D3.js)**
-
-This section showcases visualisations created using **Tableau**, **R Shiny**, and **D3.js** to analyze and present insights from Victoria road accident data.
-
-
-#### **Folder: Power BI**
-
-**HR Dashboard**, providing key insights into:
-- Employees **due for promotion**
-- Employees at risk of **retrenchment**
-- Breakdown by job levels and departments
-
-**View the Dashboard**
-Due to platform limitations, the interactive Power BI dashboard cannot be embedded directly. However, you can:
- **View the Offline Report**: [Download the PDF version](https://github.com/EmmanuelleHC/Data_Science_Portfolio/blob/main/Data%20Visualisation/Power%20BI/Clustered%20HR%20Data/HRData.pdf) 
-
-**About the Dashboard**
-This dashboard helps HR teams analyze:
-- **Promotion Gaps**: Identifying employees who are overdue for promotion.
-- **Retrenchment Risk**: Highlighting employees most at risk.
-- **Job Levels and Departments**: Understanding trends across the organisation.
-
-### **Folder: Tableau Report**
-
-1. **Victoria Road Accident Data Analysis**  
-   - **Objective**: Conduct data analysis and identify irregularities in Victoria road accident data.  
-   - **Key Features**:  
-     - Developed a report to uncover trends and patterns in accident data.  
-     - Highlighted data irregularities and provided insights for better decision-making.  
-
-2. **Interactive E-commerce Sales Dashboard**  
-   - **Objective**: Create an interactive dashboard to track e-commerce sales performance and trends.  
-   - **Key Features**:  
-     - Visualised key metrics such as revenue, sales performance, and customer behaviour.  
-     - Dashboard link: [E-commerce Sales Dashboard](https://public.tableau.com/app/profile/emmanuelle.christin/viz/EcommerceBook_17349426403290/Dashboard1?publish=yes)  
-3. **Interactive Customer Revenue Dashboard**  
-   - **Objective**: Analyze customer revenue trends to uncover actionable insights.  
-   - **Key Features**:  
-     - Visualises total revenue with breakdowns by month, state, age, region, and category.  
-     - Highlights top-performing months and age groups.  
-     - Interactive charts include geographic revenue mapping, category comparisons, and discount-quantity correlation analysis.  
-   - **Dashboard Link**: [Customer Analysis Dashboard](https://public.tableau.com/views/CustomerAnalysis_17353908271990/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-
-#### **Folder: R Shiny**
-- **Objective**: Develop an interactive data visualization tool using **R Shiny**.
-- **Key Features**:
-  - Built a dynamic web application to visualise and explore Victoria road accident data.
-
-#### **Folder: D3.js**
-- **Objective**: Implement custom visualisations using **D3.js** to represent road accident trends in Victoria.
+#### **Other Visualisations**
+- **R Shiny**: Built interactive tools for exploring road accident data.
+- **D3.js**: Developed custom visuals for accident trend analysis.
