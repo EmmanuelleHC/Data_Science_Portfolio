@@ -3,6 +3,7 @@
 ### **1. Machine Learning**
 - **Hybrid Recommender System (Python)**: Combined content-based and collaborative filtering to address cold start and data sparsity, achieving a **94% grade** and ranking **18th out of 95** on Kaggle.
 - **Feature Selection & Modelling (R)**: Applied statistical tests (e.g., Kruskal-Wallis) and implemented Random Forest regression and classification models to refine predictive accuracy.
+- **Walmart Sales Forecast (Time Series)**: : Achieved an R² of 0.9237.
 - **Big Data & Spark**: Analysed customer purchase decisions by comparing GradientBoosting and Random Forest models.
 
 ### **2. ESG Survey Data Analysis**
