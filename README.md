@@ -26,9 +26,9 @@
 #### **Tableau Reports**
 1. **Road Accident Analysis**: Visualised trends and irregularities in Victoria's accident data.
 2. **E-commerce Dashboard**: Interactive visualisation of revenue, performance, and customer behaviour.  
-   - [View Dashboard](https://public.tableau.com/app/profile/emmanuelle.christin/viz/EcommerceBook_17349426403290/Dashboard1?publish=yes)
+   - [View Dashboard](https://public.tableau.com/views/EcommerceBook_17400246074320/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 3. **Customer Revenue Dashboard**: Insights into revenue trends by demographics and regions.  
-   - [View Dashboard](https://public.tableau.com/views/CustomerAnalysis_17353908271990/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   - [View Dashboard](https://public.tableau.com/views/CustomerAnalysis_17400243920380/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### **Other Visualisations**
 - **R Shiny and D3.js**: Built interactive tools for exploring road accident data.
